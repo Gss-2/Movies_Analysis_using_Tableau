@@ -1,0 +1,1001 @@
+Movie_Id,Title,Date_Published,Date_of_published,Duration,Country,Languages,Production_Company,Genre,Director,Worldwide_Gross_Income,Average_Rating
+1,Transcendent Man,07-05-1964,05-07-1964,233,South Korea,English,Rhyloo,Action,Michal Giacubbo,Won,1.5
+2,Manhattan Baby,20-03-1903,20-03-1903,84,Poland,Chinese,Brainlounge,Horror,Bess De Bischop,Zloty,7.8
+3,Broadway Rhythm,20-10-2008,20-10-2008,126,Indonesia,English,Buzzdog,Action,Vanna Vearnals,Rupiah,3.4
+4,Ernest Goes to Camp,14-09-1990,14-09-1990,25,Sierra Leone,German,Flashpoint,Comedy,Conney Starten,Leone,4.6
+5,The Concert for Bangladesh,06-04-1937,04-06-1937,30,Netherlands,English,Kare,Romance,Carmela Furlong,Euro,1.2
+6,Tomorrow at Dawn (Demain d??s l'aube),21-09-2014,21-09-2014,67,Indonesia,English,Jamia,Romance,Silvie Search,Rupiah,1.7
+7,Suspect X (Y??gisha X no kenshin),31-01-1909,31-01-1909,288,New Zealand,English,Myworks,Comedy,Phyllida Breffit,Dollar,9.8
+8,Munger Road,10-01-1909,01-10-1909,84,China,French,DabZ,Comedy,Leeland Arnal,Yuan Renminbi,5
+9,We're No Angels,28-05-1922,28-05-1922,230,China,German,Photobug,Action,Gardiner Alexandre,Yuan Renminbi,9.6
+10,Catch That Kid,01-08-2002,08-01-2002,96,Mexico,Spanish,Topicstorm,Comedy,Eddi Fritchly,Peso,6.5
+11,Camille Claudel 1915,07-12-1968,12-07-1968,183,Albania,French,Thoughtbridge,Action,Thaxter Attack,Lek,7.9
+12,It Came from Beneath the Sea,18-03-1953,18-03-1953,43,Russia,Spanish,Thoughtstorm,Horror,Livvy Mundow,Ruble,8.8
+13,Boys Don't Cry (Chlopaki nie placza),15-04-1931,15-04-1931,29,Sweden,German,Zoomzone,Drama,Sherrie Schole,Krona,2.2
+14,"Life and Times of Judge Roy Bean, The",27-06-2017,27-06-2017,22,Uzbekistan,Chinese,Meevee,Action,Serena Clifforth,Som,1.9
+15,Metrobranding,24-01-1944,24-01-1944,202,Brazil,English,Dynabox,Romance,Kerrie Lumm,Real,9.7
+16,Jim Carrey: Unnatural Act,12-02-1950,02-12-1950,175,Russia,French,Browseblab,Comedy,Fredra Firbank,Ruble,5.4
+17,Dillinger and Capone,28-07-1926,28-07-1926,118,China,Spanish,Realbridge,Drama,Burty Pauncefort,Yuan Renminbi,4.5
+18,Trigun: Badlands Rumble,21-01-2007,21-01-2007,280,Moldova,German,Gigazoom,Comedy,Daveta Nutter,Leu,7.8
+19,Olympia Part One: Festival of the Nations (Olympia 1. Teil - Fest der V??lker),10-09-1951,09-10-1951,29,France,Spanish,Quimba,Romance,Alicea Hicken,Euro,1.9
+20,Seven Alone,07-05-1988,05-07-1988,70,Indonesia,English,Twitterbeat,Action,Petr Noah,Rupiah,8.9
+21,"Trip to Bountiful, The",27-02-1958,27-02-1958,18,Indonesia,English,Gigashots,Horror,Halli Elsmor,Rupiah,7.6
+22,My Old Lady,03-09-1992,09-03-1992,206,Finland,Chinese,Tagopia,Drama,Carlie Poulglais,Euro,3
+23,Impudent Girl (L'effront??e),23-06-1948,23-06-1948,95,Serbia,Chinese,Vinder,Romance,Alexander Langfield,Dinar,9.1
+24,Dynamite,30-11-1910,30-11-1910,206,Philippines,Spanish,Yotz,Horror,Standford Frentz,Peso,5.7
+25,"Thing: Terror Takes Shape, The",28-09-2014,28-09-2014,282,Chile,Chinese,Jetpulse,Action,Chev Howells,Peso,1.7
+26,Kung Fu Dunk,26-05-1969,26-05-1969,44,Saudi Arabia,Chinese,Yacero,Horror,Mil Chatan,Rial,4.9
+27,Jane Eyre,06-04-1959,04-06-1959,4,Sweden,Spanish,Youfeed,Comedy,Karlan Shipperbottom,Krona,9.8
+28,Darkness,20-07-1924,20-07-1924,138,Indonesia,English,Dynazzy,Horror,Morris Bonifazio,Rupiah,8.1
+29,"Score, The",07-11-1952,11-07-1952,281,Japan,Chinese,Tazz,Action,Angele Pinckard,Yen,2.2
+30,Bosko's Parlor Pranks,27-07-1962,27-07-1962,281,Greece,Spanish,Yamia,Drama,Nerte Hinckley,Euro,9.2
+31,The Trans-Atlantic Mystery,20-12-1944,20-12-1944,284,Thailand,French,Riffpath,Drama,Madalena Bolin,Baht,1.7
+32,Beginning of the Great Revival (a.k.a. The Founding of a Party),17-01-1988,17-01-1988,24,Ukraine,Chinese,Mybuzz,Comedy,Weylin Devil,Hryvnia,8.4
+33,Fargo,27-08-2015,27-08-2015,133,France,English,Youtags,Horror,Taryn Ginnety,Euro,4.6
+34,Day Is Done,03-11-2016,11-03-2016,206,Peru,German,Yotz,Comedy,Rees Chapelle,Sol,1
+35,Winnie the Pooh and a Day for Eeyore,22-05-1925,22-05-1925,81,China,Chinese,Kayveo,Drama,Rodolfo Kelberer,Yuan Renminbi,5
+36,Kids of the Round Table,18-02-1956,18-02-1956,160,Russia,English,Wikibox,Action,Puff Palombi,Ruble,7.7
+37,Balls of Fury,06-10-1900,10-06-1900,86,Brazil,Chinese,Flipstorm,Drama,Cheston Wasiela,Real,3.3
+38,"New Barbarians, The (I nuovi barbari)",02-06-1959,06-02-1959,119,Laos,Spanish,Avamm,Drama,Amil Lightbourne,Kip,2.3
+39,Why Stop Now,03-06-1955,06-03-1955,178,Sweden,English,Tazz,Comedy,Dexter Blakey,Krona,3.5
+40,"Climb, The",23-10-1965,23-10-1965,206,Guatemala,Spanish,Cogidoo,Horror,Howey Pedroli,Quetzal,2.8
+41,Stranded,14-04-2019,14-04-2019,78,United States,German,Meetz,Action,Anabella Anmore,Dollar,7.7
+42,In Bed (En la cama),13-05-1952,13-05-1952,22,Brazil,Chinese,Zoomcast,Drama,Nels Pendrid,Real,5.4
+43,"Black Sleep, The",12-06-1957,06-12-1957,201,Ukraine,Spanish,Twitterbeat,Romance,Isidor Heffer,Hryvnia,1.1
+44,David and Lisa,26-09-1918,26-09-1918,186,Netherlands,Chinese,Fanoodle,Drama,Jolene O'Daly,Euro,4
+45,"Names of Love, The (Le nom des gens)",06-09-2015,09-06-2015,171,Sudan,French,Topiclounge,Horror,Cosmo Fell,Pound,8.1
+46,Endgame: Blueprint for Global Enslavement,24-01-2006,24-01-2006,41,Argentina,Chinese,Dynazzy,Horror,Jennie Showalter,Peso,4.7
+47,"Salvation, The",07-08-1906,08-07-1906,229,China,Chinese,Buzzster,Horror,Oralie Blowick,Yuan Renminbi,4.4
+48,Deadgirl,19-01-1926,19-01-1926,85,Venezuela,French,Leenti,Comedy,Ferdie Panswick,Bolivar,4
+49,"Like Father, Like Son",09-02-2009,02-09-2009,161,Cape Verde,German,Trudoo,Drama,Herta Hessel,Escudo,4.6
+50,"Hart of London, The",09-06-1917,06-09-1917,193,France,Chinese,Blogspan,Horror,Dallon Pesselt,Euro,8.3
+51,Bullet in the Head,28-04-1992,28-04-1992,179,Nigeria,French,Skyba,Horror,Christel Brimmacombe,Naira,3.3
+52,Rings on Her Fingers,08-02-1986,02-08-1986,170,Indonesia,English,Yakijo,Action,Stephen Brock,Rupiah,9
+53,"Condemned, The",24-12-1919,24-12-1919,145,Indonesia,Chinese,Shufflester,Romance,Abba Brickwood,Rupiah,6.9
+54,"Stolen Life, A",16-06-1989,16-06-1989,173,Russia,Spanish,Lazzy,Comedy,Melody Raddenbury,Ruble,5.9
+55,"November Man, The",15-02-1995,15-02-1995,275,Myanmar,German,Skinder,Romance,Dre Harry,Kyat,9.8
+56,"Ballad of Jack and Rose, The",19-08-2000,19-08-2000,56,Indonesia,English,Gabcube,Drama,Beckie Woolrich,Rupiah,3.2
+57,Saving Grace,29-09-1938,29-09-1938,192,Indonesia,Spanish,Blogpad,Comedy,Layton Sibbe,Rupiah,3.8
+58,My Wife Is a Gangster 2 (Jopog manura 2: Dolaon jeonseol),15-03-1923,15-03-1923,123,Hungary,French,Twitterlist,Horror,Rudy Humbell,Forint,4.2
+59,Elvis and Me,03-09-1946,09-03-1946,54,Ecuador,Spanish,Brainverse,Horror,Abbey Jecock,Dollar,7.8
+60,"Rookie, The",11-01-2016,01-11-2016,288,Argentina,Spanish,Edgetag,Drama,Demetri Bowle,Peso,9.4
+61,"Shrimp on the Barbie, The",21-05-2017,21-05-2017,9,Afghanistan,French,Skipstorm,Drama,Dannie Sokell,Afghani,1.3
+62,Intohimon vallassa,18-01-1966,18-01-1966,171,Albania,German,Meembee,Comedy,Gavra Reinbech,Lek,4.1
+63,"Battle of China, The (Why We Fight, 6)",15-03-1997,15-03-1997,138,China,French,Voonder,Horror,Beaufort Spry,Yuan Renminbi,2.9
+64,Warsaw Bridge (Pont de Vars?˝via),17-12-1906,17-12-1906,219,United States,German,Yata,Romance,Aline Faulo,Dollar,9.8
+65,Cast a Giant Shadow,15-02-1968,15-02-1968,153,Portugal,French,Abatz,Comedy,Albie Bedells,Euro,3.4
+66,Rocky,26-11-2003,26-11-2003,296,China,English,Zoozzy,Comedy,Gus Wille,Yuan Renminbi,2.7
+67,Sister My Sister,09-03-1920,03-09-1920,250,Peru,Chinese,Thoughtworks,Comedy,Wilt Feehely,Sol,3
+68,"Most Wanted Man, A",17-08-1928,17-08-1928,30,Macedonia,Spanish,Leenti,Romance,Jessee Kytter,Denar,3.8
+69,Living Out Loud,18-04-1973,18-04-1973,132,Poland,Spanish,Twitterworks,Horror,Linn Dooney,Zloty,9.3
+70,Most Likely to Succeed,10-08-1958,08-10-1958,290,China,French,Mybuzz,Action,Haley Labusquiere,Yuan Renminbi,4.3
+71,Monty Python's Life of Brian,11-05-1945,05-11-1945,167,Indonesia,English,Zazio,Action,Anson Lightewood,Rupiah,2.1
+72,"Good, the Bad, the Weird, The (Joheunnom nabbeunnom isanghannom)",23-07-1987,23-07-1987,173,Indonesia,Spanish,Twimbo,Drama,Delia Whitworth,Rupiah,9.8
+73,I Feel Sleepy,13-06-1956,13-06-1956,205,Sweden,German,Tambee,Romance,Celia Horlock,Krona,4.1
+74,Kronos (a.k.a. Captain Kronos: Vampire Hunter),11-07-1900,07-11-1900,16,Costa Rica,French,Twitterbridge,Action,Agna Margerrison,Colon,9.7
+75,Merchants of Doubt,16-11-1977,16-11-1977,168,Indonesia,English,Linklinks,Horror,Juliette Tressler,Rupiah,7.2
+76,Double Dragon,13-07-1943,13-07-1943,85,France,Chinese,Thoughtbridge,Drama,Ashil Thorald,Euro,3.2
+77,"Lodger: A Story of the London Fog, The",18-08-2012,18-08-2012,238,Colombia,French,Divavu,Horror,Darsie Bagott,Peso,7.4
+78,"1000 Eyes of Dr. Mabuse, The (Die 1000 Augen des Dr. Mabuse)",23-05-2005,23-05-2005,250,Indonesia,Spanish,Yombu,Romance,Nehemiah Stading,Rupiah,1.2
+79,Compulsion,05-12-1932,12-05-1932,269,Canada,French,Wikido,Action,Lynna Ortelt,Dollar,5.3
+80,True Grit,15-05-1962,15-05-1962,205,Israel,Chinese,Topicstorm,Romance,Shanda Grimbaldeston,Shekel,7.9
+81,Halloween II,07-01-1978,01-07-1978,145,Colombia,German,Zoomcast,Drama,Averell Joscelin,Peso,7.1
+82,Shrink,21-01-2013,21-01-2013,111,Portugal,Spanish,Flashpoint,Comedy,Winfred Bicker,Euro,9.9
+83,Funny About Love,09-03-1945,03-09-1945,46,China,English,Yacero,Romance,Rustin Grindlay,Yuan Renminbi,4.2
+84,Popular Music (Popul??rmusik fr?ùn Vittula),21-08-1999,21-08-1999,20,China,French,Voonix,Drama,Paulie Bentote,Yuan Renminbi,10
+85,Show Me Love (Fucking ??m?ùl),23-07-1946,23-07-1946,13,China,English,Trupe,Drama,Filberte Ingall,Yuan Renminbi,1.7
+86,Double Indemnity,26-01-1941,26-01-1941,137,Ukraine,English,Zoomdog,Drama,Micheil Wellman,Hryvnia,9.3
+87,Geronimo: An American Legend,02-06-1919,06-02-1919,227,China,English,Bubblebox,Drama,Archibaldo Lotze,Yuan Renminbi,8.3
+88,Midnight Cowboy,22-06-1991,22-06-1991,39,Netherlands,French,Demivee,Comedy,Galina Zoppo,Euro,4.3
+89,"Stranger in Town, A",23-02-1980,23-02-1980,22,Greece,French,Kazio,Action,Evered Margetts,Euro,6.4
+90,Cluny Brown,26-12-1957,26-12-1957,177,Indonesia,French,Meemm,Action,Burke Zoppo,Rupiah,8.9
+91,Nanking,30-07-1907,30-07-1907,90,Ukraine,French,Trudoo,Action,Terra Marquis,Hryvnia,9.5
+92,Dead Time: Kala,11-03-1937,03-11-1937,61,Argentina,Spanish,Realmix,Romance,Nikkie Davitashvili,Peso,8.5
+93,Men Without Women,15-04-1972,15-04-1972,140,South Africa,English,Yakijo,Drama,Mariquilla Emerine,Rand,9.6
+94,Two Lives (Zwei Leben),26-08-1946,26-08-1946,252,Indonesia,Chinese,Brainbox,Horror,Karoline Annatt,Rupiah,1.5
+95,Eat,11-03-1906,03-11-1906,134,Czech Republic,Spanish,BlogXS,Comedy,Stephani Glennie,Koruna,9.1
+96,Children of Paradise (Les enfants du paradis),06-01-1926,01-06-1926,184,Indonesia,Spanish,Edgeify,Drama,Ailey Brobyn,Rupiah,8.9
+97,Slow Burn,03-05-1985,05-03-1985,244,United States,English,Kaymbo,Comedy,Valeria Van den Dael,Dollar,2.7
+98,Mr. Jealousy,15-02-1949,15-02-1949,162,Sudan,French,Vinder,Comedy,Ricki McSperron,Pound,5.8
+99,Heathcliff: The Movie,06-05-1949,05-06-1949,51,Indonesia,English,Kazu,Romance,Neysa Buckell,Rupiah,9.1
+100,No Good Deed (a.k.a. The House on Turk Street),25-07-1902,25-07-1902,167,Czech Republic,German,Voonte,Drama,Vale Denekamp,Koruna,3
+101,Provocateur (Prowokator),07-07-1915,07-07-1915,135,Sweden,Chinese,Shufflester,Comedy,Hestia Tilston,Krona,4.8
+102,What's Cooking?,08-07-1930,07-08-1930,167,Czech Republic,English,Chatterbridge,Drama,Cordie Notti,Koruna,9.2
+103,Original Sin,22-10-1966,22-10-1966,92,Indonesia,French,Photolist,Romance,Claiborne Cass,Rupiah,8.7
+104,BlinkyTM,18-05-1984,18-05-1984,77,Palestinian Territory,English,Gabtype,Drama,Haily Weld,Shekel,7.3
+105,Meat Love,27-12-1904,27-12-1904,2,Latvia,German,Agimba,Comedy,Candide Jowers,Euro,7.7
+106,Heart of Glass (Herz aus Glas),01-05-1944,05-01-1944,104,Vietnam,German,Trilia,Comedy,Benni Spight,Dong,3.2
+107,Hellraiser: Revelations,03-08-1901,08-03-1901,119,France,German,Tazzy,Horror,Grayce Garioch,Euro,2.7
+108,"Big Bang, The",01-04-1912,04-01-1912,291,Portugal,Chinese,Trudeo,Comedy,Morgan Geoghegan,Euro,5.5
+109,Time of Roses (Ruusujen aika),11-05-1920,05-11-1920,285,Russia,Chinese,Edgewire,Comedy,Harriott Covill,Ruble,7.5
+110,Article 99,15-09-1957,15-09-1957,263,Mongolia,German,Gabtune,Comedy,Aubree Hardstaff,Tugrik,6.4
+111,I Live My Life,20-02-1920,20-02-1920,177,Hungary,German,Yata,Drama,Dorris Kluge,Forint,9.2
+112,"Stupids, The",04-03-1906,03-04-1906,156,France,German,Agimba,Drama,Jilli Klimkin,Euro,3.1
+113,"Homem Que Desafiou o Diabo, O",10-01-1988,01-10-1988,234,Albania,French,Dabfeed,Action,Pru Robertacci,Lek,1.2
+114,Toto le h??ros,16-11-1973,16-11-1973,29,Norway,German,Flashspan,Action,Florentia Sylett,Krone,3
+115,Banklady,16-06-2008,16-06-2008,38,Pakistan,English,Mita,Comedy,Gonzales Spini,Rupee,3.1
+116,One Trick Pony,12-01-1994,01-12-1994,300,Montenegro,English,Jabbertype,Romance,Jolyn Artist,Euro,2.7
+117,Palme,14-07-2012,14-07-2012,246,Brazil,English,Blogspan,Comedy,Darla Nesbit,Real,6.3
+118,"Hypothesis of the Stolen Painting, The (L'hypoth??se du tableau vol??)",21-05-2008,21-05-2008,156,China,English,Linklinks,Drama,Elvera Jerrolt,Yuan Renminbi,4.1
+119,I Bought a Vampire Motorcycle,06-01-1958,01-06-1958,45,Taiwan,Chinese,Pixonyx,Action,Nertie Trammel,Dollar,2.9
+120,"Warrior and the Sorceress, The",01-01-2022,01-01-2022,149,Philippines,Spanish,Pixonyx,Drama,Devondra Setchfield,Peso,8.8
+121,"Animatrix, The",02-11-1925,11-02-1925,96,Russia,Spanish,Skidoo,Romance,Jessalin Dallaway,Ruble,8.1
+122,"Chef in Love, A (Shekvarebuli kulinaris ataserti retsepti)",23-06-1917,23-06-1917,98,Philippines,Chinese,Livepath,Drama,Karyl Hayden,Peso,5.2
+123,Century of the Dragon (Long zai bian yuan),13-12-1983,13-12-1983,223,Philippines,French,Skimia,Romance,Raynell Castiglioni,Peso,3.2
+124,Fausto,01-11-2000,11-01-2000,142,Sweden,English,Centizu,Horror,Kurt Baigrie,Krona,7.4
+125,London Conspiracy,13-11-1902,13-11-1902,86,Russia,English,Skyvu,Comedy,Farleigh Huxtable,Ruble,3.2
+126,Naked Weapon (Chek law dak gung),24-07-1929,24-07-1929,296,Bosnia and Herzegovina,Spanish,Twiyo,Horror,Rockie Croneen,Marka,1.5
+127,Edward Scissorhands,05-12-1907,12-05-1907,107,Argentina,French,Feedmix,Horror,Hansiain McIlwraith,Peso,7.5
+128,"Grand, The",22-08-1967,22-08-1967,36,Niger,Chinese,Thoughtblab,Drama,Roderick Stonbridge,Franc,1.6
+129,Malcolm X,16-04-1950,16-04-1950,20,Portugal,French,Yabox,Drama,Jarvis Feltham,Euro,4.1
+130,Babies (B??b??(s)),19-04-1979,19-04-1979,294,China,French,Gabcube,Horror,Lenette McMakin,Yuan Renminbi,9.1
+131,"Silent House, The (La casa muda)",28-02-1969,28-02-1969,145,Brazil,French,Edgewire,Horror,Faythe Cabrera,Real,4.6
+132,Beautiful Darling,17-01-1909,17-01-1909,114,Morocco,Chinese,Jaloo,Romance,Corrine Burchnall,Dirham,9
+133,Twilight,12-04-1901,04-12-1901,88,North Korea,French,Twinder,Romance,Raphael Gatiss,Won,6.1
+134,Black Rain,03-06-1943,06-03-1943,257,China,French,Eabox,Horror,Lemmie Dobbing,Yuan Renminbi,4.1
+135,"Flame and the Arrow, The",16-05-1953,16-05-1953,215,Reunion,Chinese,Trilia,Horror,Lorry Daventry,Euro,5.2
+136,Lupin III: First Contact (Rupan Sansei: Faasuto Kontakuto),29-10-2010,29-10-2010,10,China,Chinese,Tanoodle,Romance,Lorenza Youtead,Yuan Renminbi,7.4
+137,"Bonheur, Le",29-12-2006,29-12-2006,271,France,English,Jazzy,Horror,Clark Domenici,Euro,4.7
+138,Broken English,20-09-2022,20-09-2022,151,Philippines,Spanish,Pixoboo,Drama,Hollyanne Hoxey,Peso,2.5
+139,"Crow: City of Angels, The",30-12-1999,30-12-1999,163,China,French,Jabberbean,Drama,Decca Villar,Yuan Renminbi,1.5
+140,Tracy Morgan: Black and Blue,15-09-2021,15-09-2021,114,France,French,Voonix,Horror,Tamiko Kells,Euro,6.3
+141,Stalingrad,31-05-1984,31-05-1984,208,Paraguay,Spanish,Thoughtworks,Drama,Michele Cammocke,Guarani,5.9
+142,"Foul King, The (Banchikwang)",17-12-1975,17-12-1975,148,China,Spanish,Katz,Romance,Franni Bradtke,Yuan Renminbi,7.7
+143,California Suite,27-09-1905,27-09-1905,181,Philippines,French,Fadeo,Drama,Pieter Clapham,Peso,2.5
+144,Unforgotten: Twenty-Five Years After Willowbrook,03-01-1929,01-03-1929,138,France,English,Gevee,Drama,Kennan Duffy,Euro,5.2
+145,Love and Other Drugs,14-06-1980,14-06-1980,259,Czech Republic,Chinese,Eabox,Romance,Corette Meadway,Koruna,8.3
+146,Drunken Master (Jui kuen),26-04-1991,26-04-1991,9,China,French,Brainsphere,Horror,Jackquelin Lapwood,Yuan Renminbi,6.5
+147,Man of the House,25-06-1991,25-06-1991,159,Russia,Spanish,Trunyx,Comedy,Libbey Waddicor,Ruble,4.7
+148,The Monkey King,29-08-2020,29-08-2020,86,Poland,German,Podcat,Romance,Harrietta Azam,Zloty,5.9
+149,Suspicious River,06-05-1966,05-06-1966,116,Yemen,Chinese,Skivee,Drama,Shawn Kienle,Rial,6.5
+150,"Brass Teapot, The",13-04-1937,13-04-1937,18,Philippines,English,Oloo,Horror,Claire Bourgourd,Peso,3.1
+151,"Waiting Room, The",12-02-2022,02-12-2022,66,Reunion,German,Vidoo,Horror,Bobby Eykelhof,Euro,4.1
+152,"Chase, The",11-11-1920,11-11-1920,119,Portugal,English,Eayo,Drama,Mikel Antonchik,Euro,9.7
+153,On the Outs,14-06-2016,14-06-2016,35,Czech Republic,Chinese,Talane,Comedy,Keary Battaille,Koruna,7
+154,"Grass Harp, The",29-03-1993,29-03-1993,175,Chile,French,Yakitri,Horror,Jacquelyn Delagnes,Peso,5.8
+155,"White Hell of Pitz Palu, The (Die wei??e H??lle vom Piz Pal?¨) ",14-02-1911,14-02-1911,6,Indonesia,Chinese,Tagopia,Horror,Wiatt Itshak,Rupiah,6.3
+156,Glen or Glenda,27-06-1926,27-06-1926,249,United States,German,Fatz,Drama,Willa Moss,Dollar,4.5
+157,Blast of Silence,12-08-2004,08-12-2004,21,Canada,English,Edgeify,Drama,Tandy Konzel,Dollar,2.9
+158,"Very Social Secretary, A",04-08-1960,08-04-1960,63,Bulgaria,French,Photobean,Drama,Beverlee Carter,Lev,8.7
+159,That Kiljunen Family (Kiljusen herrasv??ki),09-06-1904,06-09-1904,136,Russia,French,Tagcat,Drama,Demetri Sparey,Ruble,1.2
+160,Sam Peckinpah's West: Legacy of a Hollywood Renegade,10-03-1999,03-10-1999,33,Philippines,English,Thoughtstorm,Romance,Rozalin Curthoys,Peso,9.3
+161,King's Ransom,07-05-2009,05-07-2009,126,China,French,Rhyloo,Drama,Auria Clell,Yuan Renminbi,3.2
+162,"Jeffrey Dahmer Files, The",03-09-1957,09-03-1957,92,Armenia,Chinese,Tagchat,Comedy,Gwyneth Camacke,Dram,9.6
+163,Diggers,26-04-1943,26-04-1943,89,Japan,Spanish,Wikizz,Horror,Annalise Balmadier,Yen,3.5
+164,Once in the Life,24-09-1988,24-09-1988,254,Peru,German,Riffpath,Drama,Tate Drioli,Sol,2.1
+165,Sabrina,14-04-2022,14-04-2022,231,China,Spanish,Twitterwire,Comedy,Raynard Middiff,Yuan Renminbi,5.3
+166,"Five Heartbeats, The",15-03-2010,15-03-2010,265,Japan,English,Meeveo,Romance,Fanchette Naptin,Yen,2.2
+167,Satisfaction (a.k.a. Girls of Summer),02-02-2014,02-02-2014,218,Poland,German,Meevee,Romance,Kaine Budgett,Zloty,1.1
+168,Justin and the Knights of Valour,24-05-2013,24-05-2013,285,China,Spanish,Lazzy,Romance,Avictor Rickword,Yuan Renminbi,4.2
+169,"Scorpion King, The",07-07-1940,07-07-1940,261,Albania,Chinese,Dabshots,Drama,Dmitri Hiley,Lek,4.8
+170,8MM,28-05-1955,28-05-1955,107,Australia,Chinese,Zoomdog,Action,Lazaro Emig,Dollar,9.3
+171,None But the Lonely Heart,28-08-1940,28-08-1940,185,France,English,Eabox,Drama,Sybyl Wonfar,Euro,8.6
+172,"Sword of Doom, The (Dai-bosatsu t??ge)",12-03-1922,03-12-1922,187,Canada,French,Mynte,Comedy,Hube Draisey,Dollar,2.1
+173,Summer of '42,01-04-1942,04-01-1942,134,Greece,Spanish,Latz,Comedy,Kati Stoppe,Euro,8.5
+174,Honeymoon in Vegas,22-08-1915,22-08-1915,264,Trinidad and Tobago,German,Meezzy,Drama,Tyler Brash,Dollar,5.1
+175,The Disappeared,09-05-1985,05-09-1985,27,Brazil,English,Omba,Horror,Jobyna Kinge,Real,4.6
+176,Lady Terminator (Pembalasan ratu pantai selatan),04-02-1985,02-04-1985,294,China,Spanish,Skyble,Horror,Florry Snufflebottom,Yuan Renminbi,5.1
+177,If Footmen Tire You What Will Horses Do?,13-12-1917,13-12-1917,280,China,English,Layo,Action,Brunhilde Bundock,Yuan Renminbi,9.4
+178,Star Kid,24-02-1917,24-02-1917,235,China,Chinese,Twinder,Drama,Waylin Meeke,Yuan Renminbi,5.8
+179,Patrice O'Neal: Elephant in the Room,16-01-2015,16-01-2015,184,Finland,English,Devpoint,Romance,Constance Wetwood,Euro,6.6
+180,"Sicilian, The",21-02-1908,21-02-1908,274,Myanmar,Chinese,Topiclounge,Action,Alvina Trafford,Kyat,1.1
+181,"Farewell to Arms, A",22-11-2002,22-11-2002,232,Japan,Chinese,Skynoodle,Action,Hendrika Lightollers,Yen,3
+182,Asphalt,30-01-2017,30-01-2017,45,Greece,Chinese,Aimbu,Drama,Mordecai Cuerdale,Euro,3.4
+183,Illustrious Corpses (Cadaveri eccellenti),01-01-2018,01-01-2018,95,Indonesia,Spanish,Aivee,Romance,Cary O'Gaven,Rupiah,7.6
+184,"Affair of the Heart, An",23-02-1958,23-02-1958,230,Russia,French,Quimba,Drama,Deerdre Haxell,Ruble,1.3
+185,Hello! How Are You? (Buna! Ce faci?),23-05-1952,23-05-1952,99,Philippines,English,Quaxo,Drama,Cleo Huban,Peso,1.3
+186,Cul-de-sac,05-03-2009,03-05-2009,238,Azerbaijan,English,Wikizz,Comedy,Debbie Weekly,Manat,3.5
+187,"Little Thief, The (Le petit voleur)",09-06-1959,06-09-1959,53,Chile,French,Livepath,Comedy,Anny Welman,Peso,5.2
+188,"Pixar Story, The",05-11-1975,11-05-1975,228,Peru,German,Twimbo,Horror,Sallie Bagger,Sol,6.8
+189,"Gleaners & I, The (Les glaneurs et la glaneuse)",10-11-2005,11-10-2005,23,Ukraine,German,Voomm,Drama,Kellen Santora,Hryvnia,8.7
+190,Salome's Last Dance,10-09-1977,09-10-1977,94,Portugal,Chinese,Dynazzy,Action,Carrol Rolles,Euro,6.8
+191,Teenagers from Outer Space,10-03-1943,03-10-1943,244,Canada,English,Avaveo,Action,Carita Kiff,Dollar,4.7
+192,Cowboy del Amor,28-09-1953,28-09-1953,59,Brazil,Chinese,Divanoodle,Action,Beverie Rolfo,Real,1.9
+193,Magnificent Obsession,02-07-1936,07-02-1936,110,Indonesia,English,Realcube,Action,Jamima Wallentin,Rupiah,7.8
+194,Armageddon 2012,26-10-2004,26-10-2004,22,Ethiopia,Chinese,Skinder,Romance,Florence Stickley,Birr,7.3
+195,"Swinger, The",18-04-1910,18-04-1910,189,China,Spanish,Divavu,Drama,Izaak Willshire,Yuan Renminbi,7.2
+196,"Burial Ground (a.k.a. Zombie Horror) (a.k.a. Zombie 3) (Notti del Terrore, Le)",07-01-1969,01-07-1969,116,China,French,Oyoyo,Action,Kirsten Deeney,Yuan Renminbi,6.6
+197,P.S. I Love You,17-01-2011,17-01-2011,19,Albania,German,Realpoint,Romance,Fabe Delouch,Lek,9.2
+198,Trailer Park of Terror,30-10-1957,30-10-1957,218,Lebanon,French,Yamia,Horror,Annabelle Ferrieroi,Pound,4.2
+199,Capricorn One,27-07-2001,27-07-2001,219,France,Chinese,Photolist,Romance,Margette Sacks,Euro,2.1
+200,Long Way Round,23-08-1930,23-08-1930,10,Russia,English,Photolist,Horror,Umeko Pendre,Ruble,1
+201,Absence of Malice,31-03-1917,31-03-1917,35,Finland,French,Jabbersphere,Horror,Lou Fenech,Euro,1.3
+202,I Accuse,19-12-2014,19-12-2014,272,Sweden,Chinese,Lazz,Drama,Rand O'Feeny,Krona,1.3
+203,"Year My Parents Went on Vacation, The (O Ano em Que Meus Pais Sa??ram de F??rias)",09-11-1999,11-09-1999,216,Venezuela,Spanish,Lajo,Action,Korella Gadie,Bolivar,7.8
+204,"Burning Hot Summer, A (Un ??t?? br?Ølant)",06-05-2017,05-06-2017,45,Poland,Spanish,Feedspan,Action,Karil Flippelli,Zloty,2.1
+205,Barefoot (Barfuss),07-03-1918,03-07-1918,80,Argentina,Chinese,Brainverse,Drama,Weston Scrogges,Peso,4.2
+206,"Puerta de Hierro, el exilio de Per??n",08-06-1980,06-08-1980,257,Mexico,Chinese,InnoZ,Drama,Frasier Thurgood,Peso,7.8
+207,Looney Tunes: Back in Action,06-03-1922,03-06-1922,132,China,English,Buzzster,Drama,Elnora McCoughan,Yuan Renminbi,4.7
+208,Fuzz,29-06-1920,29-06-1920,289,Philippines,English,Wordtune,Action,Sophronia Averay,Peso,9.9
+209,Last Resort,22-04-1922,22-04-1922,84,Norway,Chinese,Yodel,Action,Virginie Proudlove,Krone,9.6
+210,Kicked in the Head,11-02-1957,02-11-1957,116,Thailand,Chinese,Cogibox,Drama,Elsworth Bruins,Baht,4.1
+211,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,20-09-1993,20-09-1993,157,Indonesia,German,Devcast,Action,Hope Leatherland,Rupiah,2.3
+212,Bean,30-11-1940,30-11-1940,188,China,German,Eidel,Romance,Bourke MacGill,Yuan Renminbi,5.6
+213,Cabin in the Sky,15-02-1969,15-02-1969,79,China,German,Roodel,Horror,Edik Trencher,Yuan Renminbi,2.1
+214,Big Shot's Funeral (Da Wan),01-08-1937,08-01-1937,260,Ukraine,Spanish,Edgeify,Romance,Ellerey Muckart,Hryvnia,4.6
+215,Daddy's Dyin'... Who's Got the Will?,17-02-1925,17-02-1925,179,Brazil,French,Vitz,Action,Courtney Follitt,Real,1.9
+216,Joe,14-03-1993,14-03-1993,105,China,Chinese,Realfire,Drama,Del Ladbrook,Yuan Renminbi,6.7
+217,Al Capone,30-05-1987,30-05-1987,116,Argentina,English,Jatri,Drama,Jocelin Till,Peso,6.1
+218,"Last Lovecraft: Relic of Cthulhu, The",05-11-1926,11-05-1926,156,Indonesia,Spanish,Edgepulse,Drama,Oliy Mackleden,Rupiah,4.9
+219,"Milky Way, The",27-03-1906,27-03-1906,7,Philippines,German,Wikizz,Drama,Gale Marusik,Peso,5.2
+220,Coogan's Bluff,22-07-1941,22-07-1941,99,Brazil,English,Oyonder,Comedy,Erinn McVity,Real,5.3
+221,The Little Kidnappers,24-11-1957,24-11-1957,279,Indonesia,Spanish,Twiyo,Romance,Constantin Rounds,Rupiah,8.2
+222,Russell Peters: The Green Card Tour - Live from the O2 Arena,25-09-2007,25-09-2007,33,Peru,French,Fliptune,Romance,Sophie Bumphrey,Sol,8.1
+223,Flirting,20-07-1954,20-07-1954,38,Indonesia,German,Kamba,Romance,Angelika Hamlington,Rupiah,1.9
+224,"Girasoli, I (Sunflower)",11-02-1958,02-11-1958,252,Portugal,Spanish,Babbleset,Drama,Urson O'Skehan,Euro,3.4
+225,Queen - Rock Montreal,26-08-1968,26-08-1968,235,France,Spanish,Yacero,Horror,Collen Klimko,Euro,8.3
+226,Dragon Hunter,19-05-2005,19-05-2005,191,Laos,German,Photobean,Romance,Aldin Batchelar,Kip,6.7
+227,An American Hippie in Israel,14-05-1925,14-05-1925,38,China,Chinese,Jabbercube,Drama,Patin Soreau,Yuan Renminbi,1.7
+228,"Hunting Party, The",26-08-1909,26-08-1909,113,China,English,Centimia,Action,Barry Bottom,Yuan Renminbi,7.6
+229,Are You Listening?,27-10-1911,27-10-1911,100,Indonesia,English,Zooxo,Action,Gabriel Ormshaw,Rupiah,9.5
+230,102 Minutes That Changed America,24-10-2018,24-10-2018,217,Indonesia,Spanish,Babbleopia,Comedy,Camilla Rawstorn,Rupiah,2.2
+231,"Moth Diaries, The",21-03-1934,21-03-1934,97,Azerbaijan,Spanish,Divavu,Action,Ailyn Kett,Manat,6.9
+232,"Very Natural Thing, A",16-04-2004,16-04-2004,185,Portugal,German,Babbleopia,Drama,Bobina Amburgy,Euro,5.9
+233,Ghost World,08-09-1976,09-08-1976,228,Peru,German,Jatri,Romance,Osborn Jephcote,Sol,6.2
+234,Pelicanman (Pelikaanimies),08-08-2015,08-08-2015,7,Russia,German,Quaxo,Drama,Perceval Westwell,Ruble,9.2
+235,Afstiros katallilo,27-01-1920,27-01-1920,150,Myanmar,Spanish,Reallinks,Drama,Lacey Dillway,Kyat,1.2
+236,Obsession,29-01-1925,29-01-1925,122,Indonesia,English,Kwinu,Drama,Georgena Soppett,Rupiah,3.1
+237,Fine-Tune,06-01-1922,01-06-1922,125,Poland,Spanish,Oyoloo,Drama,Amelie Benazet,Zloty,3.7
+238,"Adventures of Huckleberry Finn, The",28-01-1901,28-01-1901,115,Egypt,English,Wordpedia,Comedy,Malissia Bertwistle,Pound,3.2
+239,Dear Pillow,27-03-1951,27-03-1951,93,Brazil,German,Youfeed,Action,Lyon Wicklen,Real,8.9
+240,Hollywood Sex Wars,01-02-1981,02-01-1981,268,Uganda,Spanish,Wikibox,Romance,Winifred Steagall,Shilling,2.8
+241,Ticked-Off Trannies with Knives,24-04-1922,24-04-1922,203,Ivory Coast,German,Divape,Drama,Sayers Martonfi,Franc,8.7
+242,Cold Showers (Douches froides),26-11-1929,26-11-1929,177,Vietnam,French,Thoughtstorm,Drama,Myrle Osbiston,Dong,2
+243,Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale),05-02-1922,02-05-1922,186,Palestinian Territory,English,Kayveo,Romance,Reine Jepson,Shekel,9.5
+244,Tom Petty and the Heartbreakers: Runnin' Down a Dream,12-11-1920,11-12-1920,176,Brazil,German,Realcube,Comedy,Kassia Lukes,Real,1.1
+245,"Ch?õteau, The",06-09-1902,09-06-1902,19,Thailand,French,Avamba,Drama,Shoshanna Raccio,Baht,5
+246,Pan,29-06-1959,29-06-1959,287,China,German,Trilia,Horror,Tanny Schanke,Yuan Renminbi,1.6
+247,"Half Life of Timofey Berezin, The (PU-239)",12-02-1980,02-12-1980,98,Greece,Spanish,Vipe,Comedy,Roze Grzelczyk,Euro,9.2
+248,I'm King Kong!: The Exploits of Merian C. Cooper ,03-08-2006,08-03-2006,71,Guinea,Spanish,Gigazoom,Comedy,Marissa Stark,Franc,9.4
+249,"Pretty One, The",30-06-2003,30-06-2003,264,Austria,Spanish,Bubblemix,Action,Harmon Drake,Euro,5.5
+250,"Son of the Bride (Hijo de la novia, El)",18-02-1974,18-02-1974,175,Indonesia,German,Topicware,Comedy,Cassandry Albasiny,Rupiah,8.4
+251,360,13-02-1946,13-02-1946,115,Russia,German,Yadel,Action,Calli Bazely,Ruble,1.8
+252,Beyond All Boundaries,07-01-1981,01-07-1981,1,Malaysia,Spanish,Zoonder,Romance,Christy Fetter,Ringgit,4.3
+253,StreetDance 3D,02-03-1913,03-02-1913,229,Sweden,Chinese,Bubblebox,Comedy,Windy Bonafacino,Krona,5
+254,Familiar Ground,07-11-2018,11-07-2018,84,Russia,Chinese,Gabtune,Action,Candida Heenan,Ruble,4.3
+255,Are All Men Pedophiles,16-08-1911,16-08-1911,252,Brazil,English,Abatz,Horror,Gonzales MacLice,Real,5.1
+256,"Getaway, The",16-02-1910,16-02-1910,175,China,Chinese,Voonyx,Comedy,Whitman Gosnay,Yuan Renminbi,3.4
+257,"Iceman Cometh, The",03-09-1928,09-03-1928,280,Indonesia,Chinese,Quire,Comedy,Robb Wormald,Rupiah,8.7
+258,Centurion,22-04-1984,22-04-1984,214,Philippines,Spanish,Wikizz,Horror,Barbie Peggs,Peso,7
+259,Brainstorm,22-10-1916,22-10-1916,238,Canada,Chinese,JumpXS,Action,Elvera Bird,Dollar,3.4
+260,J??nssonligan & den svarta diamanten,10-06-1985,06-10-1985,152,China,German,Bubblemix,Drama,Fremont Huntingdon,Yuan Renminbi,7.1
+261,"Dirt Bike Kid, The",05-10-1905,10-05-1905,163,China,French,Babbleset,Comedy,Ollie Bessom,Yuan Renminbi,2.4
+262,"Rain People, The",24-01-2022,24-01-2022,268,Mongolia,French,Yozio,Action,Rory Baukham,Tugrik,4.8
+263,Live Flesh (Carne tr??mula),14-03-1971,14-03-1971,160,France,German,Plambee,Comedy,Alwin Briggs,Euro,8.2
+264,"Secrets of Jonathan Sperry, The",08-02-1973,02-08-1973,237,Uzbekistan,English,Topicshots,Horror,Deane Deeble,Som,8.4
+265,"Paper Chase, The",08-09-1911,09-08-1911,250,China,French,Linkbridge,Romance,Kim Norvell,Yuan Renminbi,3.4
+266,De Dana Dan,14-07-2021,14-07-2021,33,Ivory Coast,Spanish,Yadel,Action,Bertina Hillett,Franc,7.9
+267,Stalingrad,03-08-1985,08-03-1985,278,Sweden,English,Pixoboo,Romance,Jackqueline Erricker,Krona,3.8
+268,Bill Cunningham New York,04-05-1945,05-04-1945,19,Indonesia,Spanish,Buzzster,Comedy,Archie De Cleyne,Rupiah,4.5
+269,Hot to Trot,17-06-1909,17-06-1909,200,China,Chinese,Zoovu,Comedy,Georgeanna Fenkel,Yuan Renminbi,2.1
+270,Miss Congeniality,15-11-2007,15-11-2007,72,France,Spanish,Kazu,Action,Betti Blewis,Euro,1.3
+271,"Woman Rebels, A (Portrait of a Rebel)",07-06-1981,06-07-1981,250,China,Spanish,Dabvine,Action,Patrice Cannell,Yuan Renminbi,5.7
+272,Zakochani,21-07-2022,21-07-2022,57,China,Spanish,Blognation,Romance,Tania Garms,Yuan Renminbi,9.6
+273,Smokey and the Bandit,08-10-1999,10-08-1999,14,Cuba,German,Twinte,Action,Denyse Liley,Peso,8.3
+274,Shadows (Cienie),06-10-1990,10-06-1990,42,Slovenia,French,Katz,Action,Ettie Tabourin,Euro,8
+275,Brimstone and Treacle,03-05-1983,05-03-1983,92,Kazakhstan,French,Kamba,Horror,Stanford Halewood,Tenge,2.9
+276,"Taking of Pelham 1 2 3, The",16-05-1968,16-05-1968,109,Albania,German,Mudo,Comedy,Jodi Gostridge,Lek,6.8
+277,With Great Power: The Stan Lee Story,16-09-1939,16-09-1939,156,China,French,Twimm,Romance,Gris Kleiner,Yuan Renminbi,4.3
+278,"Conclave, The",15-07-1918,15-07-1918,168,China,German,Rooxo,Comedy,Shani Harsent,Yuan Renminbi,1.8
+279,"Trial, The (Proc??s, Le)",18-10-1916,18-10-1916,189,Curacao,Chinese,Zoomlounge,Action,Connie Farenden,Guilder,3.6
+280,"Price of Forgiveness, The (Ndeysaan)",07-04-1919,04-07-1919,169,Slovenia,French,Trilia,Romance,Adriaens Phelit,Euro,8.8
+281,My Sister Eileen,19-09-1957,19-09-1957,96,United States,English,Digitube,Drama,Malynda Emmanueli,Dollar,5.4
+282,Love Games,26-11-1963,26-11-1963,65,China,French,Babbleset,Romance,Casi Jewks,Yuan Renminbi,4.7
+283,Red Sonja,20-06-1904,20-06-1904,224,Botswana,Chinese,Quinu,Drama,Barry Coope,Pula,4.9
+284,Kull the Conqueror,19-09-1973,19-09-1973,116,Mongolia,Spanish,Viva,Romance,Cristi Branson,Tugrik,8.1
+285,"Goke, Body Snatcher from Hell (Kyuketsuki Gokemidoro)",27-10-1961,27-10-1961,64,China,Spanish,Mydeo,Horror,Timothee Osgar,Yuan Renminbi,4.9
+286,3 Ninjas: High Noon On Mega Mountain,08-11-1984,11-08-1984,261,Portugal,English,Thoughtstorm,Drama,Cobb Wilman,Euro,2.9
+287,Bliss,14-02-1944,14-02-1944,292,Germany,English,Quamba,Comedy,Urbano Lepere,Euro,3
+288,Who Killed Bambi? (Qui a tu?? Bambi?),21-04-1968,21-04-1968,5,Cambodia,German,Feedspan,Comedy,Grady Bowller,Riels,1.6
+289,Judgment Night,07-04-1960,04-07-1960,4,Afghanistan,French,JumpXS,Drama,Andie Mitrovic,Afghani,7.2
+290,Chuck & Buck,26-12-1913,26-12-1913,155,Chile,Chinese,Eadel,Romance,Cart Kick,Peso,8.2
+291,Just Friends?,08-10-2011,10-08-2011,181,China,Spanish,Zoomlounge,Drama,Yorgo Roke,Yuan Renminbi,1.5
+292,Khodorkovsky,15-06-2002,15-06-2002,93,Niger,French,Yambee,Drama,Agnola Juza,Franc,4.5
+293,Ship of Fools,06-05-1959,05-06-1959,275,Peru,German,Meetz,Drama,Jourdain Sharpley,Sol,1.1
+294,Monster in the Closet,17-06-1948,17-06-1948,60,Philippines,Spanish,Skilith,Romance,Jarad Pascow,Peso,9.6
+295,Ladies in Lavender,17-01-1935,17-01-1935,278,China,German,Camido,Action,Rheba Hefferon,Yuan Renminbi,7.6
+296,My Mom's New Boyfriend,02-11-1999,11-02-1999,7,China,Chinese,Quatz,Drama,Celle Lapworth,Yuan Renminbi,3.3
+297,"Affairs of Anatol, The",15-03-1952,15-03-1952,122,Canada,Chinese,Npath,Comedy,Abbi Meaking,Dollar,2.7
+298,Synthetic Pleasures,23-07-2000,23-07-2000,53,Russia,German,Oyonder,Romance,Nial Aiskrigg,Ruble,8.2
+299,Goal! III,17-01-1915,17-01-1915,50,Poland,Spanish,Dynabox,Drama,Giuseppe Fitzhenry,Zloty,6.5
+300,Evangelion: 1.0 You Are (Not) Alone (Evangerion shin gekij??ban: Jo),01-09-2003,09-01-2003,267,Canada,Chinese,Leexo,Drama,Bell Lovel,Dollar,6
+301,Glee: The 3D Concert Movie,08-08-2009,08-08-2009,53,Poland,Chinese,Riffpedia,Comedy,Roddy Viegas,Zloty,1.2
+302,Star Wars: Episode V - The Empire Strikes Back,04-08-1942,08-04-1942,109,Afghanistan,Spanish,Vipe,Action,Holli Bremen,Afghani,5.3
+303,Highlander: The Source,29-04-1940,29-04-1940,19,Philippines,English,Topicshots,Horror,Jeralee Woodfine,Peso,3.1
+304,Play the Game,08-02-1945,02-08-1945,48,Philippines,French,Buzzster,Comedy,Laryssa MacSorley,Peso,9.5
+305,The Second Best Exotic Marigold Hotel,10-03-2005,03-10-2005,278,Kenya,German,Blogtags,Romance,Lorinda Fibbings,Shilling,7.8
+306,Hercules and the Amazon Women,18-10-1931,18-10-1931,16,Macedonia,French,Lazzy,Romance,Hermann Drohun,Denar,5.7
+307,Berlin Calling,22-12-1991,22-12-1991,156,Belarus,French,Aivee,Action,Stace Palmby,Ruble,2.7
+308,"Honeymoon Killers, The",30-01-1901,30-01-1901,90,Panama,Spanish,Blogtag,Horror,Rafaello Winspeare,Balboa,8.5
+309,Vampire Girl vs. Frankenstein Girl (Ky?Øketsu Sh??jo tai Sh??jo Furanken),25-08-1986,25-08-1986,201,Russia,English,Blognation,Action,Kara-lynn Herculson,Ruble,8.3
+310,"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",05-02-2011,02-05-2011,262,China,Chinese,Tazz,Comedy,Yance Klima,Yuan Renminbi,9.7
+311,Glen or Glenda,28-04-2020,28-04-2020,66,China,French,LiveZ,Romance,Belia Pimlett,Yuan Renminbi,5.9
+312,Bonnie and Clyde,20-06-1924,20-06-1924,106,Belarus,Spanish,Bluezoom,Action,Sebastien Cantillion,Ruble,5.3
+313,S??g att du ??lskar mig,01-02-1986,02-01-1986,227,Japan,English,Voomm,Romance,Eleanor Knoton,Yen,8.4
+314,Better Than Chocolate,22-06-1959,22-06-1959,144,China,German,DabZ,Action,Steward Plaistowe,Yuan Renminbi,1.1
+315,Stuart Little 3: Call of the Wild,11-06-1949,06-11-1949,141,Sweden,French,LiveZ,Horror,Krishnah Bondy,Krona,4
+316,Laura,22-09-1949,22-09-1949,282,Russia,German,Oyoyo,Action,Lexine Death,Ruble,3
+317,Dragon Hunter,07-06-1960,06-07-1960,295,Dominican Republic,Chinese,Avavee,Romance,Gilli Guilder,Peso,4.6
+318,Mary,12-07-1987,07-12-1987,118,France,English,Yakidoo,Horror,Godard O'Kuddyhy,Euro,9.8
+319,Saved!,26-03-2008,26-03-2008,157,Indonesia,English,Linkbuzz,Comedy,Orion Jedrzaszkiewicz,Rupiah,9.1
+320,Chori Chori Chupke Chupke,24-10-2022,24-10-2022,275,France,Spanish,Thoughtsphere,Comedy,Germaine Wetherhead,Euro,7.7
+321,Batman Unmasked: The Psychology of the Dark Knight,19-08-1920,19-08-1920,23,Philippines,German,Chatterpoint,Drama,Merilee Mahedy,Peso,7.9
+322,Evenings on a Farm near Dikanka,17-03-1929,17-03-1929,185,Australia,German,Fivechat,Romance,Courtenay Spadelli,Dollar,2.1
+323,Ichi,14-11-1915,14-11-1915,143,Russia,French,Buzzbean,Comedy,Christian Mallebone,Ruble,4.4
+324,Little Women,10-04-2015,04-10-2015,161,China,English,Meejo,Horror,Drake Pettegre,Yuan Renminbi,2.4
+325,Man on a Mission: Richard Garriott's Road to the Stars,07-11-1955,11-07-1955,126,China,French,Quatz,Horror,Cyrill Michele,Yuan Renminbi,5.4
+326,Gamera the Brave,28-08-2000,28-08-2000,284,France,French,Aibox,Action,Daffy Middlemist,Euro,2.9
+327,All Superheros Must Die,17-12-1959,17-12-1959,182,France,Spanish,Leenti,Romance,Susanne Yelyashev,Euro,3
+328,"Pleasure Seekers, The",04-11-1959,11-04-1959,157,Russia,English,Zoomzone,Comedy,Cris Kittley,Ruble,8.6
+329,"Go-Between, The",14-10-1901,14-10-1901,59,Poland,French,Twiyo,Comedy,Carling Rickardes,Zloty,1
+330,Everybody Dies But Me,11-10-1900,10-11-1900,192,Indonesia,Spanish,JumpXS,Comedy,Jenn Riddeough,Rupiah,4.5
+331,Alice (Neco z Alenky),02-01-1998,01-02-1998,179,Portugal,German,Ntags,Action,Milli Sparrow,Euro,5.3
+332,Miami Blues,14-06-1927,14-06-1927,245,Canada,German,Innojam,Action,Nellie Lapish,Dollar,7.4
+333,Five Card Stud (a.k.a. 5 Card Stud),18-09-1993,18-09-1993,230,France,Spanish,Photobean,Comedy,Pegeen Agnew,Euro,6.9
+334,"Brother's Kiss, A",30-09-1961,30-09-1961,200,Thailand,English,Fatz,Drama,Mehetabel Issit,Baht,3.9
+335,Thank You for Smoking,01-09-1993,09-01-1993,112,Philippines,English,Mydo,Action,Adelbert Chattelaine,Peso,1.1
+336,"Groundstar Conspiracy, The",28-01-1958,28-01-1958,252,Peru,French,Eimbee,Horror,Cristionna Feavearyear,Sol,1.2
+337,Sue,03-10-1914,10-03-1914,103,Tunisia,French,Mycat,Comedy,Stearne Fearnehough,Dinar,5
+338,Ween Live in Chicago,08-05-1901,05-08-1901,225,Peru,French,Riffpedia,Drama,Dyan Deeprose,Sol,3.3
+339,"Eclisse, L' (Eclipse)",14-06-1993,14-06-1993,277,Russia,Chinese,Babblestorm,Horror,Hulda Colleton,Ruble,4.2
+340,"Norte, El",25-06-1956,25-06-1956,141,Russia,Chinese,Jaloo,Action,Penelope Gierth,Ruble,9.3
+341,Lilies of the Field,23-10-1999,23-10-1999,44,China,Spanish,Eayo,Drama,Caron Dockree,Yuan Renminbi,6
+342,Istanbul,29-09-1986,29-09-1986,130,Jamaica,English,Dynava,Drama,Calypso Lammin,Dollar,7.3
+343,"Where Angels Go, Trouble Follows",09-07-1987,07-09-1987,220,Indonesia,Chinese,Blognation,Drama,Kermie Matiewe,Rupiah,3.6
+344,Mental,12-06-1986,06-12-1986,256,Dominican Republic,English,Kimia,Horror,Jannelle Criple,Peso,4.6
+345,Un Piede in paradiso,29-05-1940,29-05-1940,300,Armenia,English,Browseblab,Comedy,Nikki Bedward,Dram,4.8
+346,Adulthood,15-11-1940,15-11-1940,238,Indonesia,German,Yotz,Horror,Whitaker Crickmer,Rupiah,4.9
+347,Battle Beyond the Stars,18-07-1971,18-07-1971,287,China,Chinese,Trupe,Action,Jarrid Whitehurst,Yuan Renminbi,7.3
+348,Repeaters ,13-05-1915,13-05-1915,88,Ukraine,French,Jaxspan,Romance,Kimberley Baughn,Hryvnia,3.6
+349,"Bridge, The (Br?¨cke, Die)",10-07-1933,07-10-1933,174,Russia,German,Fliptune,Drama,Antonio Simmins,Ruble,2.4
+350,"Wedding in Blood (Noces rouges, Les)",25-01-1987,25-01-1987,232,Brazil,English,Zooxo,Romance,Dedie Teek,Real,3.9
+351,Something Borrowed,19-08-1910,19-08-1910,82,China,Chinese,Oyonder,Romance,Hilliary de Grey,Yuan Renminbi,4.8
+352,Happy Gilmore,03-02-1997,02-03-1997,253,China,Chinese,Buzzshare,Comedy,Liuka Oleszczak,Yuan Renminbi,6.6
+353,"Devil and Daniel Johnston, The",29-02-1916,29-02-1916,16,China,Chinese,Zoomlounge,Romance,Vasilis Collingdon,Yuan Renminbi,1.5
+354,Household Saints,15-04-1912,15-04-1912,266,China,English,Myworks,Drama,Minetta Murtell,Yuan Renminbi,5.9
+355,Animated Motion: Part 5,17-10-1938,17-10-1938,102,Greece,English,Skimia,Horror,Jacqui Bubbins,Euro,2.9
+356,Tracy Morgan: Black and Blue,26-09-1984,26-09-1984,136,United States,French,Eidel,Horror,Tirrell Levene,Dollar,5.9
+357,Sinbad: The Fifth Voyage,16-10-1984,16-10-1984,150,Chad,English,Twinder,Drama,Claribel Getsham,Franc,8.5
+358,The Last Journey,02-10-1905,10-02-1905,120,China,German,Shuffledrive,Comedy,Cymbre Doumerque,Yuan Renminbi,6.4
+359,"Love and Anarchy (Film d'amore e d'anarchia, ovvero 'stamattina alle 10 in via dei Fiori nella nota casa di tolleranza...')",19-04-1985,19-04-1985,235,Canada,German,Riffwire,Horror,Fin Benninger,Dollar,4.2
+360,Atrocious,24-10-1926,24-10-1926,72,Indonesia,French,Vidoo,Horror,Trudy Sheircliffe,Rupiah,5.6
+361,Pumpkin,25-05-1949,25-05-1949,18,China,Chinese,Quamba,Drama,Cheslie Wrennall,Yuan Renminbi,1.8
+362,Gulliver's Travels,24-08-2008,24-08-2008,204,Uzbekistan,English,Kare,Drama,Abbe Baudouin,Som,5.6
+363,Someone's Watching Me!,09-10-1944,10-09-1944,90,China,Spanish,Npath,Romance,Carmelia Klousner,Yuan Renminbi,3.7
+364,"Windmill Movie, The",24-04-1959,24-04-1959,33,Canada,German,Layo,Drama,Aland Pruce,Dollar,1.5
+365,"Woman in Red, The",04-04-1976,04-04-1976,50,France,German,Abata,Horror,Gerik Chipp,Euro,4.6
+366,Jack Reacher,17-02-1985,17-02-1985,253,Indonesia,French,Browsecat,Drama,Hermann Commuzzo,Rupiah,8.5
+367,Bad Boys II,25-03-1930,25-03-1930,163,United Kingdom,German,Agimba,Romance,Birgit Edensor,Pound,5.5
+368,Balzac and the Little Chinese Seamstress (Xiao cai feng),14-10-2017,14-10-2017,64,United States,German,Tagfeed,Comedy,Laurette Raunds,Dollar,1.5
+369,Bionicle 2: Legends of Metru Nui,04-05-1918,05-04-1918,109,Finland,Spanish,Eidel,Comedy,Heath Pawlicki,Euro,9.1
+370,Flirt,31-05-1908,31-05-1908,10,Russia,French,Skipfire,Action,Noach Graundisson,Ruble,2.9
+371,Don McKay,18-11-1944,18-11-1944,150,Comoros,French,Skiptube,Action,Aurore Von Salzberg,Franc,8.1
+372,"She No Longer Talks, She Shoots",28-08-1973,28-08-1973,67,Belarus,German,Yacero,Romance,Christian Gumby,Ruble,4.5
+373,Empire of Dreams: The Story of the 'Star Wars' Trilogy,25-10-2010,25-10-2010,138,France,English,Jaxnation,Comedy,Wilek Prettyman,Euro,5.6
+374,Mad Dogs & Englishmen,12-01-2021,01-12-2021,130,China,Chinese,Quamba,Romance,Johny Dockerty,Yuan Renminbi,5
+375,Crime Spree,19-07-1905,19-07-1905,163,Ukraine,German,Thoughtsphere,Romance,Francene Heazel,Hryvnia,6.7
+376,Edges of the Lord,05-08-1910,08-05-1910,228,Vietnam,German,Edgepulse,Comedy,Nonah Ruzic,Dong,1.7
+377,Cannibal Holocaust,31-01-1976,31-01-1976,117,Philippines,German,Voonyx,Comedy,Debi Baldack,Peso,9.5
+378,Mad Love,21-06-2012,21-06-2012,31,China,Chinese,Podcat,Horror,Noel Vasse,Yuan Renminbi,7.4
+379,Great Expectations,07-02-1904,02-07-1904,232,Sweden,French,Vitz,Horror,Gaston Grece,Krona,2
+380,Brokeback Mountain,27-02-1998,27-02-1998,74,Madagascar,Spanish,Jatri,Comedy,Steffane Bartoszewski,Ariary,5.9
+381,"Century of Cinema, A",10-09-1978,09-10-1978,31,United States,French,Zoombox,Action,Edgard Orgen,Dollar,3.4
+382,"Great Sinner, The",02-08-1944,08-02-1944,160,Japan,German,Browsezoom,Horror,Cherice Wiffler,Yen,4.8
+383,Dead Man's Burden,29-03-2015,29-03-2015,26,Venezuela,Spanish,Realpoint,Comedy,Kelsy Sammars,Bolivar,8.4
+384,Tatie Danielle,16-02-1932,16-02-1932,41,Greece,Spanish,Eadel,Action,Brigham Routhorn,Euro,1.4
+385,Innocent Blood,30-11-1910,30-11-1910,122,China,Spanish,Realbridge,Comedy,Ashlee Boni,Yuan Renminbi,3.2
+386,Charlie Countryman,11-05-1985,05-11-1985,32,China,English,Zoonoodle,Drama,Lauren Rodrigo,Yuan Renminbi,7.5
+387,Ong-Bak 2: The Beginning (Ong Bak 2),02-10-1956,10-02-1956,59,Indonesia,German,Photojam,Comedy,Nowell Shevill,Rupiah,4.6
+388,"Fearless Hyena, The (Xiao quan guai zhao)",05-12-1987,12-05-1987,206,China,Chinese,Browseblab,Romance,Filip Askie,Yuan Renminbi,3.9
+389,Adopted,25-07-1992,25-07-1992,282,Togo,Chinese,Skiptube,Romance,Portie Winstanley,Franc,4.1
+390,Sphere,02-02-1963,02-02-1963,261,Malta,Chinese,Innotype,Action,Tessi Mapledorum,Euro,8.8
+391,Night Train,17-09-2006,17-09-2006,11,China,Spanish,Browsezoom,Drama,Rudolf Tidcomb,Yuan Renminbi,9.6
+392,Sick Girl,21-10-1982,21-10-1982,240,Indonesia,English,Voolia,Drama,Kirby Attenbrough,Rupiah,2.4
+393,All the Light in the Sky,09-08-1987,08-09-1987,7,France,French,Mynte,Romance,Pace Winscom,Euro,8.3
+394,Castle Keep,21-11-1975,21-11-1975,242,United Kingdom,German,Skipstorm,Drama,Kamilah Fullwood,Pound,8.8
+395,Family Tree (L'arbre et la for?¶t),15-07-1900,15-07-1900,219,Albania,Spanish,Demizz,Comedy,George Kuhlen,Lek,2.1
+396,Pinocchio and the Emperor of the Night,05-09-1933,09-05-1933,194,Ukraine,Spanish,Kwinu,Romance,Ewart Emig,Hryvnia,5
+397,"Bourne Identity, The",31-08-1949,31-08-1949,178,Brazil,English,Dabtype,Romance,Marlo Jelfs,Real,4.3
+398,Comet,13-03-1940,13-03-1940,209,China,German,Livefish,Horror,Sandie Corcoran,Yuan Renminbi,5.7
+399,Critters,23-02-1951,23-02-1951,240,Finland,Chinese,Skinte,Action,Ted Bretton,Euro,9.7
+400,Piranha (Piranha 3D),24-01-2019,24-01-2019,262,Indonesia,English,Wikizz,Romance,Berkley Lucken,Rupiah,4.4
+401,The Incite Mill - 7 Day Death Game,02-11-1992,11-02-1992,94,Peru,Chinese,Photospace,Comedy,Giana Dowrey,Sol,3.1
+402,Cameraman: The Life and Work of Jack Cardiff,19-07-2018,19-07-2018,119,Indonesia,French,Meezzy,Comedy,Valida Jupp,Rupiah,6.7
+403,Penda's Fen,21-05-1991,21-05-1991,67,China,French,Izio,Romance,Myranda Cullabine,Yuan Renminbi,9.9
+404,3 Needles,17-03-2005,17-03-2005,201,Tunisia,Chinese,Twinte,Action,Reinaldos Yankishin,Dinar,2.5
+405,Yamla Pagla Deewana 2,18-08-2019,18-08-2019,214,Madagascar,Chinese,Eamia,Horror,Philis Van Son,Ariary,3.3
+406,Restless Natives,05-09-2005,09-05-2005,270,Portugal,Spanish,Fiveclub,Horror,Claudette Redmayne,Euro,6
+407,Roseland,14-02-1966,14-02-1966,118,China,Chinese,Wikibox,Horror,Beale Chester,Yuan Renminbi,1.4
+408,"Hedgehog, The (Le h??risson)",27-10-2006,27-10-2006,131,Ukraine,German,Oba,Drama,Joshia Carnew,Hryvnia,6.1
+409,Undertaking Betty (Plots with a View),02-09-1945,09-02-1945,272,Honduras,French,Babbleblab,Action,Pepe Pinar,Lempira,7.4
+410,Fulltime Killer (Chuen jik sat sau),13-05-2018,13-05-2018,194,Brazil,English,Yombu,Romance,Golda Alliott,Real,6.5
+411,"Adventures of Prince Achmed, The (Abenteuer des Prinzen Achmed, Die)",23-03-1973,23-03-1973,121,Greece,Spanish,Tekfly,Horror,Kaitlin Eyckelberg,Euro,8.1
+412,Man of a Thousand Faces,27-04-1931,27-04-1931,115,Ukraine,German,Innotype,Action,Hastings Kedge,Hryvnia,3.4
+413,"Wedding Night, The",07-08-1960,08-07-1960,23,Peru,French,Brainlounge,Romance,Dory Szimoni,Sol,4.7
+414,Foxes,19-12-1907,19-12-1907,31,China,English,Digitube,Romance,Dita Donnachie,Yuan Renminbi,5.9
+415,"White Sheik, The (Sceicco bianco, Lo)",06-05-1939,05-06-1939,276,Philippines,German,Fanoodle,Action,Bibi de Courcey,Peso,9
+416,"Sea Is Watching, The (Umi wa miteita)",12-08-1959,08-12-1959,248,China,English,Katz,Horror,Zelma Zecchii,Yuan Renminbi,5.8
+417,Hiroshima,12-04-1953,04-12-1953,273,China,Chinese,Photobean,Comedy,Tybie Montrose,Yuan Renminbi,3.7
+418,Northeast,29-03-2016,29-03-2016,39,China,English,Ntag,Drama,Emmott Knutton,Yuan Renminbi,8.3
+419,Djomeh,04-12-1946,12-04-1946,107,Poland,Spanish,Kanoodle,Comedy,Sheelah Pollins,Zloty,8.8
+420,Kumar??,31-01-1925,31-01-1925,292,Syria,French,Dabtype,Action,Misty Pargiter,Pound,6.8
+421,Memento Mori (Yeogo goedam II),04-10-2017,10-04-2017,278,China,English,Fiveclub,Horror,Rani Short,Yuan Renminbi,1.1
+422,Blood Alley,19-10-1930,19-10-1930,295,Philippines,Spanish,Plajo,Action,Truman Guymer,Peso,7.6
+423,Queen Kelly,16-08-1911,16-08-1911,114,China,Chinese,Wikizz,Romance,Miguela Noore,Yuan Renminbi,7
+424,Code Unknown (Code inconnu: R??cit incomplet de divers voyages),21-08-1949,21-08-1949,172,Philippines,Chinese,Thoughtstorm,Comedy,Hymie Nyland,Peso,2.8
+425,"Wind Rises, The (Kaze tachinu)",03-03-1922,03-03-1922,284,Russia,French,Cogibox,Action,Mateo Guerriero,Ruble,8.3
+426,Clean and Sober,22-06-1957,22-06-1957,36,Norway,French,Topdrive,Action,Aldrich O'Hannay,Krone,9.5
+427,"Brain, The",13-12-2002,13-12-2002,268,Canada,Spanish,Zooxo,Romance,Meredith Jerzak,Dollar,4.1
+428,"Fat, Sick & Nearly Dead 2",03-05-1904,05-03-1904,134,Brazil,English,Abatz,Comedy,Milzie Canaan,Real,6.8
+429,Blue,09-12-1930,12-09-1930,11,Russia,French,Mymm,Horror,Tallou MacGregor,Ruble,4.8
+430,And Nobody Weeps for Me (Und keiner weint mir nach),05-04-2001,04-05-2001,5,China,German,Avavee,Horror,Billie Trounson,Yuan Renminbi,7.9
+431,"Desperados, The",13-09-1973,13-09-1973,248,Russia,English,Youspan,Action,Robbert Bagnal,Ruble,6.1
+432,Viva Max!,31-12-1922,31-12-1922,221,Nigeria,French,Browsezoom,Comedy,Mina Stanbra,Naira,5.6
+433,Woyzeck,15-12-1938,15-12-1938,137,Germany,English,Photofeed,Action,Webster Gamage,Euro,5.6
+434,Cimarron,08-01-1944,01-08-1944,209,France,German,Eamia,Action,Meta Burt,Euro,1.3
+435,"Naked Civil Servant, The",07-05-1983,05-07-1983,250,Mexico,German,Meetz,Action,Thia Lucks,Peso,4.7
+436,Smoking/No Smoking,18-02-1944,18-02-1944,29,Canada,English,Brainsphere,Comedy,Mattheus Agiolfinger,Dollar,5.5
+437,Kung Pow: Enter the Fist,27-09-1933,27-09-1933,66,Brazil,Chinese,Eabox,Drama,Jereme Shillom,Real,3.5
+438,Mr. Freedom,10-03-2004,03-10-2004,109,China,English,Fivespan,Horror,Rafi De Minico,Yuan Renminbi,4.3
+439,"Companeros (Vamos a matar, compa?Òeros)",18-01-1961,18-01-1961,168,Ethiopia,English,Snaptags,Drama,Corinna Halls,Birr,2.8
+440,Making the Boys ,17-03-1955,17-03-1955,220,Panama,German,Brainsphere,Comedy,Halsey Rubel,Balboa,8.5
+441,"Night to Remember, A",18-04-1944,18-04-1944,134,Indonesia,Spanish,Zoomcast,Drama,Ernesto Stonebridge,Rupiah,5.5
+442,Frankenstein's Army,12-12-2018,12-12-2018,197,Japan,Spanish,Voolith,Comedy,Kaitlyn Brasier,Yen,1.1
+443,Jesse James,02-08-1930,08-02-1930,156,Colombia,English,Topiczoom,Horror,Hiram Broad,Peso,3.8
+444,Hero at Large,01-04-1963,04-01-1963,269,Indonesia,English,Npath,Romance,Felecia Blench,Rupiah,2.2
+445,Pull My Daisy,02-09-2016,09-02-2016,63,China,German,Fadeo,Horror,Agneta Pardal,Yuan Renminbi,2.1
+446,Fiston,25-10-2011,25-10-2011,27,Ukraine,French,Mybuzz,Action,Claudian Gerrell,Hryvnia,2
+447,"Passion of Darkly Noon, The",22-04-2016,22-04-2016,128,Indonesia,French,Meedoo,Comedy,Odell Tarbett,Rupiah,2.6
+448,His Regeneration,01-11-1986,11-01-1986,103,China,French,Leenti,Horror,Gayle Deeves,Yuan Renminbi,1.8
+449,See You in the Morning,16-01-1903,16-01-1903,67,Mexico,German,Oyoloo,Action,Jammal Noden,Peso,8
+450,True Crime,25-08-1933,25-08-1933,222,Indonesia,English,Yabox,Comedy,Angie Gulliford,Rupiah,6.2
+451,Cinema Paradiso (Nuovo cinema Paradiso),13-11-1911,13-11-1911,23,Mexico,Spanish,Eire,Action,Erica Alekseev,Peso,8.1
+452,What Men Talk About,01-07-2022,07-01-2022,15,Malaysia,French,Flashdog,Horror,Earle McGuiney,Ringgit,6.5
+453,Gamera vs. Gyaos (Daikaij?Ø k?Øch?Øsen: Gamera tai Gyaosu),19-03-2016,19-03-2016,201,Democratic Republic of the Congo,German,Rhynoodle,Comedy,Ronald Featherston,Franc,8.2
+454,High School High,29-03-1911,29-03-1911,199,Greece,Spanish,Topiczoom,Drama,Benedicto Easterfield,Euro,3.5
+455,"Kind of Loving, A",25-01-1946,25-01-1946,248,China,French,Realbridge,Action,Bernardina Baress,Yuan Renminbi,5.7
+456,Games,04-05-1941,05-04-1941,3,Peru,English,Thoughtworks,Comedy,Harris McInally,Sol,6
+457,Cube Zero,07-06-1979,06-07-1979,88,Brazil,English,Tazzy,Horror,Nicko Antoszczyk,Real,6.6
+458,The Prisoner,01-07-1956,07-01-1956,89,China,Spanish,Miboo,Action,Benedick Dovydenas,Yuan Renminbi,1.1
+459,The Biggest Bundle of Them All,30-09-1983,30-09-1983,150,Canada,Spanish,Tagchat,Comedy,Horst Tudbald,Dollar,4.4
+460,Dead Silence,06-07-1966,07-06-1966,159,China,French,Linkbridge,Comedy,Ade Ladbrook,Yuan Renminbi,7.7
+461,Another Man's Poison,21-11-1925,21-11-1925,147,Portugal,German,Youbridge,Horror,De witt Menendes,Euro,5.2
+462,Twelve Monkeys (a.k.a. 12 Monkeys),10-11-1991,11-10-1991,71,China,Spanish,Gigaclub,Romance,Gael Breeder,Yuan Renminbi,4.3
+463,Taffin,23-09-2002,23-09-2002,257,Lithuania,English,Jabbertype,Romance,Knox Crowdy,Litas,7.4
+464,How Tasty Was My Little Frenchman (Como Era Gostoso o Meu Franc?¶s),03-10-1910,10-03-1910,233,Philippines,French,Skynoodle,Action,Iggie Vickar,Peso,4.4
+465,Powwow Highway,15-05-1987,15-05-1987,146,Portugal,German,Skiptube,Action,Gerty Walework,Euro,2.7
+466,Melvin Goes to Dinner,23-01-1938,23-01-1938,59,Bolivia,Chinese,Feedbug,Romance,Nonna Casillas,Boliviano,1
+467,Princess O'Rourke,20-04-1963,20-04-1963,210,China,Spanish,Skimia,Comedy,Ula Boal,Yuan Renminbi,4.7
+468,Underworld: Awakening,08-11-1946,11-08-1946,126,Philippines,Chinese,Edgeblab,Action,Dunc Cunnell,Peso,7.1
+469,Solan og Ludvig: Jul i Fl?ùklypa,16-12-1986,16-12-1986,251,Malta,Spanish,Aimbo,Drama,Merralee Wakes,Euro,7.6
+470,Better Off Dead...,04-11-1965,11-04-1965,221,Indonesia,Spanish,Agivu,Horror,Elfrida Horsewood,Rupiah,8.1
+471,Freedom Writers,24-10-1952,24-10-1952,90,Philippines,French,Browsezoom,Romance,Reider Polack,Peso,1.6
+472,Young Mr. Lincoln,08-04-1984,04-08-1984,112,United States,French,Jetpulse,Action,Richie Buckthought,Dollar,9.5
+473,Borderline,10-11-1918,11-10-1918,126,China,German,Youbridge,Horror,Nataniel Slowcock,Yuan Renminbi,5.4
+474,Craig's Wife,04-01-1900,01-04-1900,142,Czech Republic,Chinese,Photolist,Comedy,Sandye McCarrick,Koruna,6.9
+475,"Amelie (Fabuleux destin d'Am??lie Poulain, Le)",22-06-1946,22-06-1946,107,China,English,Quinu,Drama,Tate Dietz,Yuan Renminbi,3
+476,Bleeder,25-10-1936,25-10-1936,5,China,Chinese,Oodoo,Drama,Edan Timbridge,Yuan Renminbi,4.6
+477,Not One Less (Yi ge dou bu neng shao),24-01-1931,24-01-1931,121,Kenya,German,Zava,Horror,Genevieve Brotherick,Shilling,2.4
+478,Fabled,24-04-2022,24-04-2022,75,Malawi,English,Rhyloo,Drama,Harlan Llewhellin,Kwacha,7.9
+479,"Prodigal Son, The (Tuhlaajapoika)",17-06-1921,17-06-1921,144,Luxembourg,Chinese,Flashdog,Action,Eden Songhurst,Euro,8
+480,His Private Secretary,19-02-1975,19-02-1975,77,Serbia,French,Kamba,Comedy,Eldon Prendergast,Dinar,5.9
+481,"Delicate Delinquent, The",06-09-1988,09-06-1988,239,China,Chinese,Buzzdog,Romance,Francene Fernao,Yuan Renminbi,7.8
+482,Dracula's Daughter,09-11-1988,11-09-1988,64,Brazil,Chinese,Browsecat,Comedy,Lianna Wellington,Real,1.7
+483,Popular Music (Popul??rmusik fr?ùn Vittula),31-08-1941,31-08-1941,141,Indonesia,English,Shufflebeat,Action,Wendy Milbourn,Rupiah,7.6
+484,Waiting Women (Kvinnors v??ntan),06-11-1980,11-06-1980,5,Philippines,French,Skyndu,Drama,Elvira Peperell,Peso,6.1
+485,Flicka,06-09-1945,09-06-1945,136,Philippines,German,Realfire,Horror,Jobye Rumble,Peso,2
+486,Poison Ivy II,03-02-1998,02-03-1998,93,Czech Republic,German,Devify,Comedy,Joaquin Skittreal,Koruna,3.1
+487,Carnal Knowledge,28-06-1981,28-06-1981,109,Indonesia,German,Mynte,Drama,Melita Ambresin,Rupiah,5.5
+488,"Lonely Place to Die, A",16-06-1996,16-06-1996,232,China,Spanish,Ailane,Action,Francisco Search,Yuan Renminbi,3.5
+489,"Perfect Couple, A",10-03-1982,03-10-1982,70,Argentina,Chinese,Browsedrive,Romance,Dorthea Camble,Peso,1.6
+490,Evolution,30-01-1946,30-01-1946,61,Germany,Chinese,Thoughtmix,Drama,Neron Beers,Euro,4.3
+491,"Thick-Walled Room, The (Kabe atsuki heya)",06-03-1950,03-06-1950,41,Mexico,French,Avavee,Action,Boycey Kerman,Peso,5.6
+492,Soft Fruit,10-04-1965,04-10-1965,254,Indonesia,Spanish,Layo,Drama,Marla Kairns,Rupiah,4.4
+493,"Story of Yonosuke, A (Yokomichi Yonosuke)",11-10-2019,10-11-2019,102,Panama,French,Tagcat,Drama,Benni Leipnik,Balboa,1.3
+494,Who's Afraid of Virginia Woolf?,14-04-2013,14-04-2013,105,China,Spanish,Skaboo,Action,Marcille Postan,Yuan Renminbi,6.5
+495,"Count Dracula (Nachts, wenn Dracula erwacht)",13-10-1959,13-10-1959,295,Portugal,French,Brightdog,Drama,Barry Rimer,Euro,4.8
+496,Pauline at the Beach (Pauline ?ˇ la Plage),16-11-2021,16-11-2021,138,China,Spanish,Blogpad,Action,Annamarie Blaker,Yuan Renminbi,7.7
+497,My Sassy Girl (Yeopgijeogin geunyeo),01-06-1904,06-01-1904,252,Philippines,Spanish,Nlounge,Comedy,Tudor Jarmyn,Peso,2.5
+498,Drive Angry,10-09-1959,09-10-1959,220,Peru,Spanish,Jatri,Horror,Frasquito Scheffler,Sol,5.6
+499,Passion of Mind,18-08-2006,18-08-2006,212,Portugal,German,Ailane,Horror,Winnifred Durrance,Euro,5.5
+500,Henry Poole is Here,07-01-1962,01-07-1962,202,Poland,English,Thoughtsphere,Comedy,Harwell Willgoose,Zloty,2.9
+501,Scary Movie 3,10-04-1953,04-10-1953,132,France,English,Zoomcast,Horror,Riva Chessell,Euro,6.5
+502,"Devils, The",03-05-1948,05-03-1948,109,China,English,Quamba,Horror,Andra Royans,Yuan Renminbi,9.4
+503,Sun on the Horizon,02-08-1948,08-02-1948,199,Israel,Chinese,Divape,Drama,Kristofer Gallichan,Shekel,9.8
+504,El tren de la memoria,21-05-2012,21-05-2012,261,China,Chinese,Eimbee,Romance,Lutero Cady,Yuan Renminbi,7.6
+505,Jane Austen's Mafia!,23-12-1921,23-12-1921,280,Indonesia,German,Thoughtbeat,Action,Devlen Astling,Rupiah,9.1
+506,MVP: Most Valuable Primate,21-11-1924,21-11-1924,178,Indonesia,Chinese,Quamba,Drama,Angelika Offill,Rupiah,5
+507,"Play It Again, Sam",02-12-1963,12-02-1963,148,United States,Chinese,Quimm,Drama,Alverta Cutchee,Dollar,3.1
+508,Eight Legged Freaks,13-08-1951,13-08-1951,218,China,Chinese,Cogilith,Action,Brooks Pirrey,Yuan Renminbi,1.5
+509,Jesse Stone: Innocents Lost,01-03-1919,03-01-1919,110,France,German,Riffpedia,Romance,Ellette Ellul,Euro,3.7
+510,"Express, The",17-05-1996,17-05-1996,264,China,Chinese,Mynte,Drama,Erich Jurkowski,Yuan Renminbi,4.1
+511,Midnight's Children,05-01-1956,01-05-1956,277,China,Chinese,Realbridge,Horror,D'arcy Mussared,Yuan Renminbi,8.7
+512,Joffrey: Mavericks of American Dance,06-09-1961,09-06-1961,39,Indonesia,Chinese,Twinder,Romance,Jaymie Mathiot,Rupiah,8.9
+513,"Sucker, The (Corniaud, Le)",05-11-1950,11-05-1950,202,Vietnam,French,Photobean,Comedy,Piper Feldberg,Dong,7.5
+514,Our Relations,05-06-1926,06-05-1926,208,Poland,English,Photojam,Romance,Conroy Titley,Zloty,4.9
+515,Nightcap (Merci pour le chocolat),13-01-2003,13-01-2003,63,Belarus,English,Jazzy,Horror,Nathanial Cockshott,Ruble,7.8
+516,Love! Valour! Compassion!,26-07-1926,26-07-1926,203,China,Chinese,Rhynoodle,Comedy,Loretta Bertl,Yuan Renminbi,3.6
+517,The Great Northfield Minnesota Raid,11-02-1943,02-11-1943,161,Philippines,German,Lazz,Horror,Casper Letrange,Peso,3.8
+518,Block Party (a.k.a. Dave Chappelle's Block Party),09-04-1984,04-09-1984,230,Sri Lanka,English,Tagchat,Drama,Cesaro Cullon,Rupee,7.6
+519,Love Affair,23-06-1968,23-06-1968,279,Sweden,French,Skiptube,Romance,Vale Litterick,Krona,9.6
+520,Tokyo Chorus (T??ky?? no k??rasu),11-03-1973,03-11-1973,223,Saudi Arabia,Chinese,Quinu,Action,Ellary Westmancoat,Rial,7.8
+521,The Cruel Sea,09-08-1943,08-09-1943,211,Sweden,French,Realbridge,Horror,Hildegaard Sneller,Krona,2.7
+522,Resident Evil: Afterlife,15-03-1994,15-03-1994,241,Serbia,French,Skinder,Romance,Lloyd Joye,Dinar,4.9
+523,Winchester '73,29-06-1953,29-06-1953,97,Colombia,Chinese,Omba,Horror,Berenice Ace,Peso,9
+524,09-Nov,20-09-2011,20-09-2011,110,Brazil,Chinese,Oyondu,Comedy,Bryn Jell,Real,4.9
+525,"Year of Living Vicariously, The",04-11-2013,11-04-2013,289,Bosnia and Herzegovina,German,Youtags,Horror,Nathalia Paske,Marka,9.3
+526,Nell,22-06-1944,22-06-1944,118,Czech Republic,French,Tazz,Comedy,Virgilio Arlett,Koruna,8.5
+527,Arthur,31-01-1932,31-01-1932,97,Vietnam,German,Innojam,Drama,Mercy Vitet,Dong,8.8
+528,"Code Conspiracy, The",01-10-1995,10-01-1995,276,Pakistan,English,Tavu,Action,Malchy O'Rowane,Rupee,3.5
+529,Santo vs. las lobas,02-09-1981,09-02-1981,193,Indonesia,French,Jayo,Romance,Miriam Poyle,Rupiah,4.8
+530,Nazty Nuisance,16-12-1938,16-12-1938,162,Russia,French,Realpoint,Romance,Manda McCorry,Ruble,6.1
+531,Santa Who?,28-10-1961,28-10-1961,75,Thailand,German,Yambee,Romance,Farlee Alentyev,Baht,2.7
+532,Duel at Diablo,24-08-1945,24-08-1945,283,Czech Republic,German,Skynoodle,Action,Jolene Dewbury,Koruna,7.8
+533,I Accuse,27-05-1900,27-05-1900,10,Russia,English,Aimbo,Horror,Wendi Stuke,Ruble,7.8
+534,Beyond Therapy,23-08-1958,23-08-1958,207,Philippines,French,Izio,Action,Rodge Rallin,Peso,7.3
+535,Tomorrow at Dawn (Demain d??s l'aube),09-07-1933,07-09-1933,257,Sweden,Spanish,Youfeed,Horror,Prudence Gaskamp,Krona,9.2
+536,Snowpiercer,17-05-2014,17-05-2014,68,Spain,German,Mita,Drama,Mitchael Rutt,Euro,2.8
+537,Woodstock,20-01-1943,20-01-1943,22,Portugal,Chinese,Skajo,Action,Jandy Ettridge,Euro,7.1
+538,Splash,29-05-1929,29-05-1929,54,Thailand,Chinese,Trupe,Comedy,Becky Eilhersen,Baht,6.3
+539,Go for Zucker! (Alles auf Zucker!),20-03-1905,20-03-1905,120,China,Chinese,Zava,Action,Consalve Bohlmann,Yuan Renminbi,9.2
+540,Running Scared,23-11-2010,23-11-2010,33,Poland,Chinese,Snaptags,Horror,Ree Bowich,Zloty,5.1
+541,?? nos amours,23-10-1953,23-10-1953,245,Russia,Chinese,Bubblebox,Horror,Katharyn Owenson,Ruble,6
+542,Outlaw,06-12-1945,12-06-1945,178,Philippines,French,Flashdog,Action,Retha Binny,Peso,5.2
+543,"Seafarers, The",03-01-1960,01-03-1960,250,China,German,Mynte,Horror,Phebe Hurley,Yuan Renminbi,8.2
+544,Pieces (Mil gritos tiene la noche) (One Thousand Cries Has the Night),16-11-1932,16-11-1932,86,Armenia,Spanish,Tagcat,Romance,Gert Smythin,Dram,6.2
+545,"Work of Director Michel Gondry, The",13-04-1909,13-04-1909,69,Czech Republic,English,Dabtype,Drama,Ezekiel Spitell,Koruna,2.8
+546,Satisfaction (a.k.a. Girls of Summer),16-01-1934,16-01-1934,161,Russia,Spanish,BlogXS,Romance,Lark Drury,Ruble,3.7
+547,Brothers,10-08-2017,08-10-2017,147,Mexico,German,Bubbletube,Horror,Bryana Hannant,Peso,6.8
+548,City of Hope,11-09-2021,09-11-2021,221,Philippines,Chinese,Aibox,Drama,Monica Shegog,Peso,1.9
+549,"Tomb, The",15-12-1986,15-12-1986,55,Portugal,Chinese,Meezzy,Drama,Dario Camblin,Euro,9.1
+550,DEFCON: The Documentary,17-09-1998,17-09-1998,17,China,English,Eazzy,Horror,Jobey Teideman,Yuan Renminbi,6.3
+551,Restless (Levottomat),14-12-1979,14-12-1979,114,Japan,Spanish,Voomm,Drama,Rea Tweddell,Yen,4.6
+552,TiMER,21-03-1988,21-03-1988,163,Sweden,Spanish,Yakidoo,Romance,Kaja Nelm,Krona,4.9
+553,"Fourth World War, The",24-03-1989,24-03-1989,114,Czech Republic,French,Yakitri,Comedy,Zachery Garthshore,Koruna,7.4
+554,Up the Sandbox,11-04-1938,04-11-1938,13,Papua New Guinea,French,Skipstorm,Drama,Artur Hurran,Kina,9.8
+555,Hell's Gate 11:11,01-11-1978,11-01-1978,224,Palestinian Territory,English,Dazzlesphere,Drama,Mallorie Balsellie,Shekel,9.1
+556,"Straight Story, The",10-03-1969,03-10-1969,28,Philippines,English,Oozz,Romance,Enrika Nix,Peso,6.9
+557,Men in White,20-09-2015,20-09-2015,116,Colombia,English,Skiptube,Horror,Thorn Croci,Peso,3.5
+558,Loving,14-01-1926,14-01-1926,258,Philippines,Chinese,Zoombox,Horror,Wallis Pennell,Peso,8
+559,Evil Remains (Trespassing),27-07-1962,27-07-1962,171,Poland,Chinese,Katz,Horror,Ignacius Farress,Zloty,2.3
+560,"Loving Story, The",25-01-1985,25-01-1985,271,China,Spanish,Janyx,Romance,Michaella Fallows,Yuan Renminbi,8.7
+561,Major Barbara,03-02-1909,02-03-1909,202,Poland,German,Jaxspan,Action,Ruperta Rainy,Zloty,2.1
+562,"Other Guys, The",27-12-1963,27-12-1963,299,Belarus,French,Wordify,Horror,Nikolia Elleyne,Ruble,1.6
+563,Johnny Cash at Folsom Prison,31-07-1954,31-07-1954,220,China,Spanish,Oba,Comedy,Adina Schapero,Yuan Renminbi,5.7
+564,Mogambo,08-09-1973,09-08-1973,129,Colombia,German,Edgeclub,Romance,Taddeo Zanini,Peso,4.8
+565,Broken Kingdom,29-01-1994,29-01-1994,92,Russia,Chinese,Dabvine,Drama,Saundra Lorkins,Ruble,4.8
+566,Antichrist,16-05-2015,16-05-2015,85,Paraguay,Spanish,Tekfly,Comedy,Enid Philippard,Guarani,5.4
+567,Faust,03-08-1944,08-03-1944,272,Poland,English,Edgepulse,Comedy,Rayner Dady,Zloty,9.2
+568,"China 9, Liberty 37 (Amore, piombo e furore)",25-11-2013,25-11-2013,264,Netherlands,Chinese,Devpoint,Romance,Darbee Peek,Euro,1.3
+569,Tetsuo II: Body Hammer,08-06-1946,06-08-1946,88,China,Chinese,Tagcat,Romance,Angelina Vlasenkov,Yuan Renminbi,9.8
+570,"Fist of Fury (Chinese Connection, The) (Jing wu men)",16-08-2009,16-08-2009,260,Panama,English,Bubbletube,Comedy,Mort Waith,Balboa,7.1
+571,"Homesman, The",03-03-1955,03-03-1955,129,Indonesia,German,Bubblemix,Drama,Abey Gascard,Rupiah,6.4
+572,"Rising Place, The",27-09-1945,27-09-1945,139,China,English,Gabtype,Horror,Clywd Shurlock,Yuan Renminbi,2.1
+573,Beautiful Darling,27-07-1951,27-07-1951,203,Poland,Spanish,Flashset,Comedy,Joelly Kimber,Zloty,3.4
+574,And Along Come Tourists (Am Ende kommen Touristen),13-04-1980,13-04-1980,11,Indonesia,Chinese,Ailane,Comedy,Neil Dearn,Rupiah,1
+575,Murder Party,04-01-2003,01-04-2003,179,Brazil,German,Devpulse,Horror,Chas Mouser,Real,9.5
+576,Sometimes They Come Back,27-09-1916,27-09-1916,268,China,Chinese,Buzzster,Drama,Cristen Anfusso,Yuan Renminbi,1.7
+577,Blood of Dracula,16-04-1944,16-04-1944,125,Indonesia,Chinese,Twiyo,Romance,Hilliary Mowling,Rupiah,1.2
+578,"Host, The (Gwoemul)",11-06-1926,06-11-1926,47,Lebanon,Chinese,Skajo,Romance,Carita Garwill,Pound,1.9
+579,"Challenge, The",23-04-1948,23-04-1948,115,Indonesia,German,Viva,Horror,Abagail Scotter,Rupiah,4.9
+580,Saraband,01-02-1998,02-01-1998,124,Mongolia,French,Minyx,Horror,Katherine Carlaw,Tugrik,6.2
+581,Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha),12-05-1990,05-12-1990,258,Philippines,Spanish,Oba,Comedy,Korrie Brattell,Peso,9.1
+582,It's a Very Merry Muppet Christmas Movie,24-09-1983,24-09-1983,243,Indonesia,Spanish,Feedbug,Action,Shana Ballingal,Rupiah,2.5
+583,Aloft,19-11-1983,19-11-1983,212,China,Spanish,Quire,Romance,Cleon Emmanueli,Yuan Renminbi,7.8
+584,Slumdog Millionaire,01-08-1979,08-01-1979,51,France,English,Livetube,Romance,Hakeem Peplay,Euro,3.5
+585,Interview with the Vampire: The Vampire Chronicles,08-06-1993,06-08-1993,214,Russia,Spanish,Voonix,Horror,Westbrook Gascar,Ruble,2.7
+586,Birthday Girl,27-05-1961,27-05-1961,212,Kenya,English,Zooxo,Comedy,Wilfred Prall,Shilling,3.8
+587,Kid Millions,14-11-1989,14-11-1989,296,Brazil,German,Kwinu,Comedy,Michele Meert,Real,6.6
+588,Star Wars: Episode IV - A New Hope,08-03-1963,03-08-1963,139,Pakistan,Spanish,Zoonder,Romance,Anne-corinne Ondrousek,Rupee,2.7
+589,Suspect Zero,24-06-2015,24-06-2015,210,Azerbaijan,English,Oyoba,Romance,Tabbie Hoy,Manat,4.6
+590,Godzilla vs. Megalon (Gojira tai Megaro),31-05-2012,31-05-2012,133,Samoa,French,Browsecat,Drama,Bruis Kittless,Tala,3.1
+591,"Four, The (Si da ming bu)",28-03-1903,28-03-1903,208,Philippines,German,Skinix,Drama,Maribeth O' Shea,Peso,10
+592,Sacro GRA,06-02-1970,02-06-1970,74,Indonesia,English,Linktype,Drama,Muriel Aiskovitch,Rupiah,4.3
+593,"Adventures of Ichabod and Mr. Toad, The",13-09-2003,13-09-2003,55,Philippines,English,Skinix,Action,Miller Dougary,Peso,4.2
+594,"Betrayed (True and the Brave, The)",16-12-1976,16-12-1976,146,China,English,Voonte,Romance,Husain Paulisch,Yuan Renminbi,4.7
+595,Enemy of the State,20-06-1923,20-06-1923,19,Slovenia,English,Edgeify,Drama,Emmi Tuckie,Euro,7
+596,Three Came Home,26-12-1944,26-12-1944,271,Indonesia,Chinese,Feedmix,Action,Mariam Doxsey,Rupiah,9.4
+597,Olympia Part Two: Festival of Beauty (Olympia 2. Teil - Fest der Sch??nheit),18-11-1933,18-11-1933,101,China,Chinese,Yacero,Comedy,Farley Haye,Yuan Renminbi,4.5
+598,Winter Sleepers (Winterschl??fer),09-06-1904,06-09-1904,22,Portugal,English,Voonyx,Comedy,Kissiah Northcliffe,Euro,5.3
+599,Escape from Planet Earth,29-04-1915,29-04-1915,215,Ukraine,English,Oba,Action,Willis Haseman,Hryvnia,6
+600,"Ice House, The",07-07-1993,07-07-1993,220,Sweden,Spanish,InnoZ,Romance,Jessamine Ravens,Krona,3.9
+601,Red Heat,08-06-1955,06-08-1955,20,China,English,Abatz,Drama,Mirna Sawden,Yuan Renminbi,1.3
+602,Abbott and Costello in Hollywood,17-10-1957,17-10-1957,120,China,English,Meevee,Romance,Bernetta Seacombe,Yuan Renminbi,6
+603,Untraceable,14-02-1948,14-02-1948,221,Armenia,English,Vipe,Comedy,Dion Chaytor,Dram,6.2
+604,"Sandpiper, The",19-08-1930,19-08-1930,289,New Zealand,French,Photobug,Horror,Kendre Doyley,Dollar,2.1
+605,Richard Pryor Live on the Sunset Strip,02-06-1937,06-02-1937,64,Greece,German,Izio,Drama,Brynne Thoumas,Euro,3.3
+606,Game of Death,12-12-1913,12-12-1913,137,Philippines,German,Cogibox,Horror,Charisse Krauss,Peso,3.9
+607,Whitecoats,19-03-1943,19-03-1943,164,Japan,English,Myworks,Romance,Decca Vedenyapin,Yen,1.4
+608,Pretty Cool,19-01-1970,19-01-1970,143,Sweden,English,Quatz,Action,Tudor Shelp,Krona,3.2
+609,"Amazing Transparent Man, The",29-01-2011,29-01-2011,62,Anguilla,German,Centidel,Horror,Gardiner Chaffe,Dollar,6.1
+610,Bruiser,04-12-1901,12-04-1901,7,Netherlands,German,Realbridge,Horror,Ainslie Hanlon,Euro,8
+611,Texas Chainsaw 3D,21-06-1921,21-06-1921,111,Indonesia,English,Photobug,Action,Uri Dik,Rupiah,7.1
+612,"Flat, The",25-02-1920,25-02-1920,277,Nigeria,Chinese,Voolia,Drama,Jefferey Kingwell,Naira,7.8
+613,"Cottage, The",31-08-2015,31-08-2015,297,Poland,French,Yacero,Action,Zarla McVicker,Zloty,7.7
+614,Black Moon,01-02-1999,02-01-1999,268,Russia,English,Aimbu,Comedy,Millard Filliskirk,Ruble,8.7
+615,Captain Phillips,23-07-1910,23-07-1910,106,China,French,Eidel,Comedy,Jarid Eberlein,Yuan Renminbi,2.2
+616,Sweeney Todd: The Demon Barber of Fleet Street,23-05-2018,23-05-2018,110,Central African Republic,German,Ozu,Horror,Hildagarde Docket,Franc,4.3
+617,Kiss the Bride,27-05-1928,27-05-1928,36,China,English,Photofeed,Horror,Anthea Heighway,Yuan Renminbi,1.2
+618,Crooks in Clover (a.k.a. Monsieur Gangster) (Les tontons flingueurs),11-09-1905,09-11-1905,118,Indonesia,Chinese,Quimm,Horror,Shayna Josofovitz,Rupiah,2.9
+619,"Seventh Seal, The (Sjunde inseglet, Det)",25-07-1917,25-07-1917,91,China,German,Avamm,Romance,Franny De Souza,Yuan Renminbi,8.7
+620,At Play in the Fields of the Lord,28-06-1945,28-06-1945,229,China,English,Eayo,Comedy,Delmar Gauvin,Yuan Renminbi,4.6
+621,Colossal Youth (Juventude Em Marcha),10-01-1992,01-10-1992,5,Ukraine,German,Digitube,Action,Edmund Manford,Hryvnia,6.6
+622,Woochi: The Demon Slayer,19-02-1912,19-02-1912,155,Indonesia,French,Topicstorm,Horror,Jeannine Banford,Rupiah,7
+623,"Colony, The",19-02-2022,19-02-2022,54,Sweden,Chinese,Camimbo,Comedy,Rance Lewsley,Krona,1.4
+624,Sailor of the King,28-12-1932,28-12-1932,110,Saint Helena,French,Voonder,Romance,Dael Lipp,Pound,1.6
+625,Zona Zamfirova,05-04-1947,04-05-1947,175,Bolivia,German,Skipstorm,Drama,Audry Grayson,Boliviano,3.9
+626,Wilde,09-04-1968,04-09-1968,190,China,French,Devpulse,Drama,Jimmie Mushart,Yuan Renminbi,4.1
+627,March or Die,19-01-1993,19-01-1993,192,China,Chinese,Avaveo,Action,Betsey Phinnessy,Yuan Renminbi,7.3
+628,Apartment for Peggy,26-10-1907,26-10-1907,212,Malaysia,French,Edgeify,Romance,Benito Hordell,Ringgit,5.1
+629,"Rape of Europa, The",23-12-1953,23-12-1953,244,United States,English,Twiyo,Horror,Janela Cuerda,Dollar,7.2
+630,Disco and Atomic War (Disko ja tuumas?Êda),27-01-1998,27-01-1998,10,Czech Republic,French,Skibox,Horror,Ruben Tutchener,Koruna,4.8
+631,Chains (Catene),10-04-1988,04-10-1988,69,Japan,Chinese,Kamba,Comedy,Caresse Megson,Yen,2.2
+632,Deadly Surveillance,03-06-1923,06-03-1923,234,Indonesia,German,Realfire,Romance,Otes Breston,Rupiah,8.9
+633,American Violet,07-03-1902,03-07-1902,79,China,German,Yakijo,Horror,Dell Storton,Yuan Renminbi,6.3
+634,Beau Geste,26-10-2017,26-10-2017,91,Egypt,Chinese,Jabbertype,Action,Petra Gouny,Pound,5.9
+635,Body Double,14-02-1937,14-02-1937,187,China,Spanish,Yata,Action,Arin Castella,Yuan Renminbi,8.1
+636,This Night I'll Possess Your Corpse (Esta Noite Encarnarei no Teu Cad?≠ver),12-12-1930,12-12-1930,14,Thailand,French,Eare,Horror,Ambur Durtnall,Baht,1.1
+637,Pajama Party,21-01-1955,21-01-1955,69,Malawi,German,Edgeblab,Action,Fionnula Rapier,Kwacha,3.5
+638,Iron Eagle,14-07-1991,14-07-1991,195,Cuba,English,Edgeblab,Action,Adriaens Strettell,Peso,4.2
+639,Nanny McPhee Returns (a.k.a. Nanny McPhee and the Big Bang),26-04-1931,26-04-1931,15,Honduras,English,Thoughtstorm,Comedy,Drona Zuanelli,Lempira,6.2
+640,"League of Their Own, A",24-02-1931,24-02-1931,291,Thailand,Chinese,Cogidoo,Horror,Broderick Dyers,Baht,6
+641,Hadersfild (Huddersfield),06-07-2006,07-06-2006,277,Greece,French,Trilith,Comedy,Corliss Phlipon,Euro,3.9
+642,Lucy,16-04-1946,16-04-1946,282,Burundi,Spanish,Mybuzz,Drama,Dorthy Petchell,Franc,8.2
+643,Toomorrow,29-10-2000,29-10-2000,177,Mexico,English,DabZ,Horror,Caty Sawbridge,Peso,6.2
+644,Cuba,09-12-1921,12-09-1921,232,Kenya,German,Zooxo,Romance,Tan Woodfine,Shilling,8.5
+645,Nirvana,18-12-1984,18-12-1984,12,Indonesia,Chinese,Fliptune,Romance,Gertrudis Doone,Rupiah,5.3
+646,"Woman Rebels, A (Portrait of a Rebel)",21-09-2021,21-09-2021,244,China,Spanish,Realfire,Horror,Tuckie Trotton,Yuan Renminbi,5.6
+647,Hatchet II,19-10-1968,19-10-1968,273,Portugal,Chinese,Twinder,Romance,Rebecka Pittaway,Euro,4.7
+648,Butter,02-08-2009,08-02-2009,258,Sweden,German,Cogibox,Drama,Dougy Guppie,Krona,7.4
+649,Curse of the Demon (Night of the Demon),03-07-1908,07-03-1908,292,Indonesia,German,Babblestorm,Horror,Diarmid Sangster,Rupiah,9.8
+650,Highwaymen,30-03-1909,30-03-1909,206,Russia,French,Babbleset,Romance,Darrin Ismirnioglou,Ruble,7.9
+651,"Steam Experiment, The",07-04-1951,04-07-1951,293,Argentina,English,Mydo,Romance,Raina McCowan,Peso,6.6
+652,Ladies of Leisure,01-12-2014,12-01-2014,243,Russia,English,Leexo,Horror,Riordan Saggers,Ruble,7.5
+653,Carolina Moon,05-01-1921,01-05-1921,231,France,English,Topicstorm,Romance,Massimiliano Tuxell,Euro,7.6
+654,Belle Starr,13-06-1930,13-06-1930,282,Philippines,Spanish,Buzzbean,Action,Bink Yokley,Peso,7.1
+655,Corn on the Cop,03-09-1981,09-03-1981,251,Greece,Chinese,Layo,Horror,Alessandro Randall,Euro,2.2
+656,Bluebeard,19-02-1921,19-02-1921,83,South Africa,German,Bluezoom,Action,Verina Olivie,Rand,4.6
+657,Beyond the Sea,26-06-1933,26-06-1933,137,Brazil,French,Vidoo,Drama,Cly Lytell,Real,2.9
+658,Rugrats Go Wild!,07-04-1970,04-07-1970,13,Morocco,English,Tanoodle,Drama,Lotty Leah,Dirham,9.3
+659,"Tall Guy, The",15-03-1977,15-03-1977,2,North Korea,Spanish,Twitterworks,Comedy,Gayler Putley,Won,5.4
+660,Tall in the Saddle,21-10-1922,21-10-1922,194,China,French,Oyoloo,Horror,Magda Attwoull,Yuan Renminbi,9.6
+661,Lucky Jordan,01-10-1982,10-01-1982,121,Slovenia,English,Twitterwire,Comedy,Moses Ettles,Euro,8.9
+662,Frankenstein's Army,24-10-1932,24-10-1932,9,China,Spanish,Divape,Action,Risa Dupre,Yuan Renminbi,2.8
+663,Kes,03-09-2015,09-03-2015,168,Poland,French,Feedbug,Horror,Dory Vinas,Zloty,9.7
+664,"Brasher Doubloon, The",27-11-2016,27-11-2016,210,Bangladesh,Chinese,Brightdog,Action,Bev Stevens,Taka,3.9
+665,Forget Me Not,22-07-1942,22-07-1942,121,Lesotho,French,Browsebug,Drama,Nicola Head,Loti,3
+666,Farewell (L'affaire Farewell),11-10-1927,10-11-1927,126,Tunisia,Spanish,Twitternation,Romance,Horten Beeton,Dinar,7.4
+667,"Comedy of Power (Ivresse du pouvoir, L')",01-09-1923,09-01-1923,62,Albania,English,Zooxo,Comedy,Vernen Abramin,Lek,6.9
+668,Luster,17-09-1906,17-09-1906,188,Sweden,German,Browsezoom,Comedy,Robert Grier,Krona,4.1
+669,Nightmare Man,20-08-1909,20-08-1909,285,Colombia,German,Jaxworks,Drama,Jermain Andrini,Peso,9.2
+670,Jesus Christ Superstar,15-09-1922,15-09-1922,35,Portugal,Chinese,Youspan,Comedy,Eba Buscombe,Euro,2.9
+671,Promises,10-07-1931,07-10-1931,68,Peru,German,Trunyx,Romance,Addie Gourdon,Sol,6.5
+672,"Expert, The",12-02-1946,02-12-1946,295,China,Spanish,Zava,Drama,Ogdon Heugh,Yuan Renminbi,3.7
+673,"Brady Bunch Movie, The",08-08-1904,08-08-1904,204,Palestinian Territory,English,Skinix,Comedy,Garrett Sloegrave,Shekel,3.3
+674,"Match, The",02-08-1930,08-02-1930,167,Indonesia,Spanish,Gigaclub,Horror,Lorinda Wildsmith,Rupiah,1
+675,Happy Together (a.k.a. Buenos Aires Affair) (Chun gwong cha sit),04-10-1990,10-04-1990,177,Poland,German,Topiczoom,Comedy,Arleen Jandourek,Zloty,1.1
+676,Mishen (Target),04-02-1970,02-04-1970,271,Bosnia and Herzegovina,Spanish,BlogXS,Drama,Kala Hains,Marka,5.5
+677,"Paris, Texas",23-01-2020,23-01-2020,29,Syria,English,Meeveo,Drama,Kit Jirousek,Pound,8.3
+678,Moscow Clad in Snow (Moscou sous la neige) ,21-07-1948,21-07-1948,245,Japan,English,Quatz,Romance,Falkner Darrell,Yen,2.5
+679,Man with an Apartment (Czlowiek z M-3),14-01-1915,14-01-1915,174,Finland,Chinese,Devcast,Horror,Erasmus Kopfer,Euro,5.8
+680,Filth,10-07-1951,07-10-1951,24,Portugal,German,Gabtune,Comedy,Bourke Brandoni,Euro,5.5
+681,Battle Royale (Batoru rowaiaru),10-05-1918,05-10-1918,218,Mexico,German,Jabbersphere,Drama,Karina Bazelle,Peso,1.1
+682,How Much Wood Would a Woodchuck Chuck (Beobachtungen zu einer neuen Sprache),19-09-1922,19-09-1922,79,Russia,German,Wikizz,Comedy,Jodie Bush,Ruble,4.2
+683,"Lodger, The",19-10-1968,19-10-1968,254,China,Chinese,Janyx,Romance,Linnell Stidston,Yuan Renminbi,6.6
+684,Xtro,21-06-1943,21-06-1943,123,China,Spanish,Roombo,Romance,Lev Bernardin,Yuan Renminbi,2.6
+685,Walter,09-04-1986,04-09-1986,106,China,English,Topicware,Romance,Jedediah Handrahan,Yuan Renminbi,1.3
+686,Trial of the Road (Check-up on the Roads) (Checkpoint) (Proverka na dorogakh),03-10-1904,10-03-1904,200,Indonesia,Spanish,Blogtags,Romance,Web McKeighen,Rupiah,2.9
+687,"Bread, My Sweet, The (a.k.a. Wedding for Bella, A)",16-01-1997,16-01-1997,55,Philippines,French,Youopia,Action,Phelia Cossans,Peso,6.3
+688,The Gambler,05-08-1932,08-05-1932,227,Norway,German,Eayo,Romance,Kennie Pile,Krone,4.4
+689,In This World,23-07-2015,23-07-2015,276,Brazil,German,Browseblab,Drama,Billye Cannings,Real,4
+690,"Raven, The",31-05-1910,31-05-1910,80,China,French,Blognation,Drama,Hervey Summerside,Yuan Renminbi,7.8
+691,"Dawn Patrol, The",23-03-2012,23-03-2012,243,Argentina,German,Linktype,Action,Nydia Grandison,Peso,8.9
+692,Magic Man,09-12-1979,12-09-1979,164,Dominica,Spanish,Roombo,Romance,Mabel Genney,Dollar,5.6
+693,Henry Poole is Here,16-08-1945,16-08-1945,287,Mexico,Spanish,Shufflebeat,Action,Jamesy Kiernan,Peso,2
+694,Enchanted,06-10-1929,10-06-1929,102,Sudan,English,Feedfish,Drama,Bobinette Dacey,Pound,8
+695,The Horribly Slow Murderer with the Extremely Inefficient Weapon,08-03-2016,03-08-2016,21,Mexico,English,Midel,Drama,Adriena Tettley,Peso,2.7
+696,Paris Was a Woman,18-02-2009,18-02-2009,200,China,French,Trilia,Drama,Jodie Snawdon,Yuan Renminbi,4.3
+697,Ollie Hopnoodle's Haven of Bliss,16-07-1981,16-07-1981,161,China,Chinese,Shuffletag,Comedy,Mickie Zanicchelli,Yuan Renminbi,5.7
+698,Castaway on the Moon (Kimssi pyoryugi),10-01-1993,01-10-1993,125,China,French,Twitterbridge,Comedy,Melisenda Keston,Yuan Renminbi,2.1
+699,Touchy Feely,24-10-1952,24-10-1952,44,Thailand,French,Blogpad,Action,Ric Beacon,Baht,8.3
+700,"Low Life, The",22-05-1911,22-05-1911,135,Iraq,German,Katz,Romance,Tori Dearan,Dinar,4.6
+701,Sugar Cane Alley (Rue cases n??gres),25-10-1913,25-10-1913,294,Spain,Spanish,Riffwire,Romance,Wilhelmina Bucknall,Euro,3.2
+702,"Boston Strangler, The",13-09-1957,13-09-1957,204,Curacao,German,Yacero,Drama,Merilyn Drennan,Guilder,7.8
+703,"Good Time Girls, The (Bonnes femmes, Les)",06-12-1985,12-06-1985,121,Ukraine,Spanish,Oloo,Drama,Scottie MacAless,Hryvnia,2
+704,Beyond the Forest,03-03-1913,03-03-1913,161,Russia,Chinese,Twimm,Romance,Mohammed Saull,Ruble,4.9
+705,London - The Modern Babylon ,21-03-1902,21-03-1902,291,United States,English,Blognation,Comedy,Alfy Pluvier,Dollar,1.5
+706,"Lift, De",17-08-1907,17-08-1907,118,Philippines,Spanish,Gigabox,Comedy,Lalo Osmant,Peso,3.6
+707,Tyler Perry's Why Did I Get Married?,29-04-1977,29-04-1977,11,Greece,Spanish,Skyndu,Drama,Olenolin Fawlkes,Euro,7.5
+708,Answers to Nothing,26-02-1987,26-02-1987,106,Indonesia,French,Meemm,Action,Larine Ebbings,Rupiah,9
+709,If These Walls Could Talk,13-08-1992,13-08-1992,242,Japan,German,Tavu,Romance,Remy Sharer,Yen,8.5
+710,"Wayward Bus, The",20-09-1985,20-09-1985,213,Guatemala,French,Trilia,Romance,Artemis Trunby,Quetzal,8.6
+711,The Man Who Played God,18-11-1975,18-11-1975,33,Indonesia,Chinese,Tagtune,Horror,Sheelagh Jellman,Rupiah,3.2
+712,Glitterbug,05-02-1953,02-05-1953,55,China,English,Meeveo,Horror,Shayla Curtis,Yuan Renminbi,6.8
+713,Coven,14-05-1928,14-05-1928,119,Hong Kong,Spanish,Wikido,Romance,Jeanine Sawle,Dollar,6.7
+714,The Fat Albert Halloween Special,18-07-1904,18-07-1904,274,Portugal,French,Dabshots,Drama,Lem Deavin,Euro,3
+715,"Half Life of Timofey Berezin, The (PU-239)",17-05-1973,17-05-1973,260,Thailand,French,Twinder,Drama,Staci Edelheit,Baht,2.4
+716,"Pure Formality, A (Pura formalit?ˇ, Una)",15-07-1999,15-07-1999,24,Indonesia,Spanish,Skibox,Action,Martie Quiddihy,Rupiah,6.2
+717,Which Way Is the Front Line From Here?  The Life and Time of Tim Hetherington,08-10-2016,10-08-2016,8,China,Spanish,Gabcube,Romance,Gates Swedeland,Yuan Renminbi,1.3
+718,Million Dollar Mermaid,02-05-1906,05-02-1906,190,Cameroon,English,Youspan,Romance,Julienne Woodfield,Franc,1.1
+719,Mother K?¨sters Goes to Heaven (Mutter K?¨sters' Fahrt zum Himmel),11-04-1994,04-11-1994,175,China,French,Gevee,Romance,Byron Knight,Yuan Renminbi,5
+720,Close to Leo (Tout contre L??o),19-02-2007,19-02-2007,138,France,English,Miboo,Action,Karoline Folomin,Euro,7.5
+721,Virtual JFK: Vietnam If Kennedy Had Lived,18-12-1923,18-12-1923,159,Sweden,English,Janyx,Horror,Korney Grieswood,Krona,1.2
+722,Le ultime ore di una vergine,29-04-2009,29-04-2009,126,Netherlands,Chinese,Yodel,Action,Roselia Brierley,Euro,4.4
+723,"American Tail: Fievel Goes West, An",29-07-1980,29-07-1980,152,Poland,Spanish,Cogidoo,Romance,Graehme Esseby,Zloty,6.2
+724,Family Tree,05-02-1912,02-05-1912,220,Czech Republic,English,Skyvu,Romance,Rebecca Swallow,Koruna,4.4
+725,"Rebel, The",04-05-1909,05-04-1909,147,Argentina,Chinese,Realcube,Comedy,Rawley Alsopp,Peso,1.3
+726,September Dawn,23-04-1952,23-04-1952,90,Indonesia,French,Oyope,Horror,Bridie Whatham,Rupiah,8.1
+727,She Cried No (Freshman Fall),11-10-2004,10-11-2004,251,Poland,French,Shuffledrive,Drama,Theo Gove,Zloty,5
+728,Vampire in Venice (Nosferatu a Venezia) (Nosferatu in Venice),24-10-1944,24-10-1944,166,China,German,Photospace,Drama,Tiffie Solman,Yuan Renminbi,4.3
+729,Soylent Green,02-02-2021,02-02-2021,176,Nicaragua,French,Realcube,Horror,Gretchen Caruth,Cordoba,8.9
+730,Wuthering Heights,17-03-1923,17-03-1923,235,Guatemala,Chinese,Dablist,Drama,Othelia Marsham,Quetzal,8
+731,"Musketeers of Pig Alley, The",23-01-1986,23-01-1986,227,Vietnam,German,Topicstorm,Romance,Giovanni Kirsop,Dong,7
+732,Crips and Bloods: Made in America,02-10-2006,10-02-2006,243,China,English,Voonyx,Romance,Perla Itchingham,Yuan Renminbi,9.4
+733,Passchendaele,20-05-1935,20-05-1935,108,Comoros,German,Pixope,Romance,Carolin Patnelli,Franc,9
+734,Revolution OS,27-06-1943,27-06-1943,37,Nigeria,French,Dynazzy,Comedy,Darb Colling,Naira,10
+735,White Fang (Zanna Bianca),21-02-1930,21-02-1930,190,Russia,French,JumpXS,Comedy,Enrico Edwicker,Ruble,2.7
+736,BloodRayne: Deliverance (BloodRayne II: Deliverance),26-08-1904,26-08-1904,242,China,English,Mycat,Drama,Stefanie Goor,Yuan Renminbi,7
+737,Gable: The King Remembered,30-10-1984,30-10-1984,134,Afghanistan,French,Flipstorm,Drama,Valerye Inman,Afghani,2.4
+738,"Tinker, Tailor, Soldier, Spy",02-01-1951,01-02-1951,243,Ireland,French,Flipopia,Horror,Ceil Rizzardo,Euro,4.8
+739,"Littlest Rebel, The",10-02-1940,02-10-1940,53,France,Chinese,Quinu,Romance,Cecilius Winckworth,Euro,2.9
+740,Linda Linda Linda,14-07-1911,14-07-1911,126,Indonesia,French,Twitterworks,Drama,Karly Beine,Rupiah,1.6
+741,No Way Home,26-09-1990,26-09-1990,211,Indonesia,English,Twitterbeat,Action,Belinda Purton,Rupiah,9.6
+742,Hellbound: Hellraiser II,04-10-1961,10-04-1961,157,Costa Rica,English,Miboo,Drama,Christie Chamberlin,Colon,8
+743,She's Out of Control,06-10-1926,10-06-1926,31,China,Chinese,Browsezoom,Comedy,Antoine Conibere,Yuan Renminbi,8.8
+744,Year of the Jellyfish (L'ann??e des m??duses),13-10-1928,13-10-1928,236,China,English,Linkbridge,Romance,Aymer Bousler,Yuan Renminbi,3.6
+745,Shakthi: The Power,21-06-1969,21-06-1969,250,China,German,Brainbox,Comedy,Kiel Borrowman,Yuan Renminbi,5.5
+746,Brazilian Western (Faroeste Caboclo),27-12-1998,27-12-1998,294,Philippines,Spanish,Centidel,Action,Verine Rimer,Peso,8.8
+747,Sinbad: Legend of the Seven Seas,17-08-2004,17-08-2004,123,Spain,English,Browseblab,Drama,Korney Callendar,Euro,5.2
+748,First Men in the Moon,30-07-1930,30-07-1930,117,Morocco,English,DabZ,Romance,Terri Leghorn,Dirham,1.6
+749,Ju-on: The Curse 2,06-12-1936,12-06-1936,41,France,Spanish,Skiptube,Horror,Cherianne Swyndley,Euro,7.6
+750,Ladies vs. Ricky Bahl,15-11-1983,15-11-1983,157,Indonesia,French,Jetpulse,Drama,Hilton Edmondson,Rupiah,9.2
+751,Hipnos,24-04-1975,24-04-1975,84,Uganda,German,Kazu,Comedy,Russell Maric,Shilling,6
+752,"Clairvoyant, The",09-03-2020,03-09-2020,12,Portugal,French,Linkbridge,Romance,Sly Sherrock,Euro,2.9
+753,Finding Bliss,03-11-1996,11-03-1996,124,Egypt,Spanish,Zoomzone,Action,Timofei Boggon,Pound,2.8
+754,"Haunted World of Edward D. Wood Jr., The",04-06-1934,06-04-1934,227,Indonesia,English,Yamia,Drama,Rey Guerner,Rupiah,7.1
+755,"Young and Prodigious T.S. Spivet, The (L'extravagant voyage du jeune et prodigieux T.S. Spivet)",15-02-1902,15-02-1902,241,Peru,French,Voonte,Horror,Lethia Durtnell,Sol,6.3
+756,Straight Shooting,30-09-1959,30-09-1959,206,Mauritius,German,Kwilith,Comedy,Nikita Kmicicki,Rupee,9
+757,"Country Girl, The",12-10-1907,10-12-1907,221,Mexico,German,Shufflebeat,Action,Nedi Golley,Peso,6.2
+758,Devil Doll,17-12-1944,17-12-1944,190,China,English,Kwideo,Action,Parker Kepp,Yuan Renminbi,6.8
+759,Get Well Soon,17-07-1979,17-07-1979,169,Greece,Spanish,Yamia,Romance,Marvin Haitlie,Euro,1.7
+760,"Game, The",10-05-1943,05-10-1943,198,China,Chinese,Kwimbee,Drama,Mace Wormstone,Yuan Renminbi,5
+761,"Ninth Configuration, The (a.k.a. Twinkle, Twinkle, Killer Kane)",27-12-2006,27-12-2006,149,China,Chinese,Youtags,Drama,Marlee Tanzig,Yuan Renminbi,5.7
+762,"Handmaid's Tale, The",30-04-1963,30-04-1963,290,Norway,German,Tavu,Comedy,Angeline Rasp,Krone,3.9
+763,"Swan Princess, The",23-06-1910,23-06-1910,52,China,German,Riffwire,Drama,Dun Hampshaw,Yuan Renminbi,3.3
+764,Transformers: Revenge of the Fallen,07-07-1955,07-07-1955,222,Indonesia,English,Thoughtstorm,Romance,Lynnett Romand,Rupiah,9.4
+765,Into the Middle of Nowhere,04-07-1999,07-04-1999,23,France,German,Jatri,Romance,Aubree Billows,Euro,2.8
+766,Nice Guys Sleep Alone,18-07-1959,18-07-1959,201,United States,Spanish,Edgewire,Action,Kele Peart,Dollar,3.5
+767,Suck,08-05-1949,05-08-1949,224,Argentina,Chinese,Geba,Comedy,Normand Chadwick,Peso,2.4
+768,Miraculum,20-01-1955,20-01-1955,70,China,French,Voonyx,Drama,Rebeka Cossins,Yuan Renminbi,2.7
+769,"Rain People, The",29-10-1916,29-10-1916,187,Sweden,Spanish,Photospace,Comedy,Mariette Cotman,Krona,6
+770,"Legend of Suram Fortress, The (Ambavi Suramis tsikhitsa) ",27-11-1938,27-11-1938,265,China,French,Pixoboo,Comedy,Damita Betchley,Yuan Renminbi,5.1
+771,Three Little Words,26-02-1914,26-02-1914,292,Czech Republic,Chinese,Livepath,Comedy,Caitrin Wabey,Koruna,7.9
+772,"Terrace, The (Terrazza, La)",07-06-1941,06-07-1941,213,United States,Chinese,Meevee,Horror,Jennilee Heatlie,Dollar,4.5
+773,Airspeed,29-03-1977,29-03-1977,175,Guinea,Chinese,Flashdog,Comedy,Maurie Paulin,Franc,8
+774,Prelude to a Kiss,26-07-1938,26-07-1938,102,Ireland,English,Realmix,Romance,Mavis Shorton,Euro,7.2
+775,"Trap: What Happened to Our Dream of Freedom, The",05-08-1939,08-05-1939,117,United Kingdom,German,Blogtags,Comedy,Jessica Mearing,Pound,5.1
+776,Hobson's Choice,05-03-1942,03-05-1942,4,Serbia,Chinese,Realfire,Drama,Dyanne McIlvaney,Dinar,4.6
+777,Our Vines Have Tender Grapes,02-06-2022,06-02-2022,139,Brazil,German,Quamba,Comedy,Baudoin Learoyde,Real,5.9
+778,Watermelon Man,04-07-2014,07-04-2014,292,Sweden,Chinese,Omba,Romance,Ermanno Agneau,Krona,8.8
+779,Lisbela e o Prisioneiro (Lisbela and the Prisoner),23-12-1928,23-12-1928,266,United Arab Emirates,German,Devpoint,Romance,Demetrius Alsopp,Dirham,7.4
+780,"Shipping News, The",13-08-1994,13-08-1994,234,Yemen,Chinese,Voolith,Action,Wendi Ricciardo,Rial,4.9
+781,Reggie Watts: Why Shit So Crazy?,18-06-1914,18-06-1914,35,Luxembourg,French,Ainyx,Drama,Jerri Squibe,Euro,1.7
+782,"Year of the Hare, The (J??niksen vuosi)",08-10-1928,10-08-1928,199,Bangladesh,German,Gigazoom,Drama,Jervis Gradwell,Taka,3
+783,Dragonlance: Dragons of Autumn Twilight,24-10-1908,24-10-1908,292,Japan,French,Blogspan,Horror,Eben Eady,Yen,4.3
+784,Het Vonnis,15-10-1928,15-10-1928,7,Japan,French,Ailane,Comedy,Victoria Moran,Yen,3.1
+785,Last Stand At Saber River,01-10-1988,10-01-1988,287,Indonesia,Spanish,Roomm,Horror,Honey Sporle,Rupiah,8.8
+786,Magical Mystery Tour,27-02-1945,27-02-1945,91,Colombia,German,Ntags,Comedy,Hagen Puve,Peso,6
+787,"Help Me, Eros (Bang bang wo ai shen)",07-03-1943,03-07-1943,277,Pakistan,English,Trilith,Horror,Drake Sore,Rupee,4.9
+788,"Wind Rises, The (Kaze tachinu)",03-02-1964,02-03-1964,149,Philippines,German,Abatz,Horror,Georgeanna Slogrove,Peso,9.4
+789,Sins,18-11-1944,18-11-1944,102,France,French,Divape,Drama,Fee Blaisdale,Euro,3.6
+790,Spring Breakdown,05-03-1973,03-05-1973,297,China,Spanish,Gabtune,Drama,Almeda Peeters,Yuan Renminbi,2.4
+791,Strange Behavior,13-03-2010,13-03-2010,265,Czech Republic,French,Twitterworks,Horror,Vernen Murgatroyd,Koruna,5.5
+792,Death Takes a Holiday,14-05-1901,14-05-1901,82,Indonesia,English,Yacero,Action,Codi Atlee,Rupiah,3.9
+793,"Goddess, The (Shen nu)",06-02-1941,02-06-1941,23,France,English,Izio,Comedy,Brit Titterton,Euro,7.6
+794,Tooth Fairy,28-01-1922,28-01-1922,158,Tajikistan,Spanish,Voonix,Comedy,Cosimo Oxbie,Somoni,6.3
+795,Prinsessa Ruusunen,26-07-2000,26-07-2000,157,China,English,Kwilith,Comedy,Donny Staynes,Yuan Renminbi,8.8
+796,Star Trek IV: The Voyage Home,23-04-1946,23-04-1946,147,Iran,Chinese,Photobug,Horror,Ceil Nockalls,Rial,1
+797,Princesas,11-11-1937,11-11-1937,227,Japan,Spanish,Flashset,Action,Reuven Trass,Yen,3.4
+798,Loving Annabelle,23-12-1935,23-12-1935,147,France,Spanish,Brightdog,Action,Rachele Marzelle,Euro,5.8
+799,"Sometimes Happiness, Sometimes Sorrow (Kabhi Khushi Kabhie Gham)",31-01-1960,31-01-1960,31,Philippines,French,Kaymbo,Horror,Lilith Gearty,Peso,8.9
+800,"Mummy's Hand, The",16-12-1914,16-12-1914,24,China,French,Mita,Comedy,Danny Hedley,Yuan Renminbi,2
+801,Moon 44,08-02-1909,02-08-1909,191,China,English,Oyoyo,Drama,Felix Temple,Yuan Renminbi,5
+802,Avanti!,23-11-1938,23-11-1938,167,Venezuela,French,Skyndu,Comedy,Bren Hanny,Bolivar,1.6
+803,Hell's Highway,28-03-1931,28-03-1931,92,Portugal,Spanish,Skipfire,Action,Doloritas Fishley,Euro,9.9
+804,Club Sandwich,22-06-2021,22-06-2021,4,Philippines,German,Jabbersphere,Comedy,Betsey Dick,Peso,8.9
+805,"Spiders, Part 2: The Diamond Ship, The (Die Spinnen, 2. Teil - Das Brillantenschiff)",14-07-2012,14-07-2012,29,Greece,Chinese,Shufflebeat,Drama,Roddie Ortes,Euro,3.1
+806,Restless Souls (Bag det stille ydre),20-10-1986,20-10-1986,267,France,German,Jazzy,Action,Franciskus Hinken,Euro,7.1
+807,Blind (Beul-la-in-deu),29-04-1988,29-04-1988,274,France,German,Mydeo,Comedy,Alvy Eddow,Euro,9.8
+808,Parental Guidance,13-08-1986,13-08-1986,46,Afghanistan,Chinese,Babbleopia,Romance,Lavena Heggs,Afghani,5.5
+809,"Lords of Salem, The",17-02-1973,17-02-1973,131,Malaysia,French,Yotz,Comedy,Dniren Prandin,Ringgit,1.4
+810,Honeymoons,15-03-1963,15-03-1963,132,Sweden,French,Babbleblab,Romance,Anastasie Jowling,Krona,9.3
+811,Hell Drivers,17-09-1965,17-09-1965,285,Croatia,French,Skajo,Comedy,Bili Helliker,Kuna,9.6
+812,Love the Beast,12-01-1939,01-12-1939,291,Russia,Chinese,Photobug,Action,Karlik Michal,Ruble,4.3
+813,"Human Family Tree, The",21-10-1904,21-10-1904,241,Czech Republic,French,Oba,Action,Penelopa Lusk,Koruna,7.5
+814,Hocus Pocus,27-09-1986,27-09-1986,134,Philippines,Chinese,Fivespan,Comedy,Morley Garrit,Peso,5.7
+815,Extraterrestrial,29-03-1939,29-03-1939,5,Poland,German,Skyndu,Action,Elora McLaggan,Zloty,8.2
+816,"Incredible Hulk, The",22-05-1944,22-05-1944,124,Egypt,Chinese,Abatz,Drama,Dionysus Bolf,Pound,9.8
+817,Incognito,05-07-2012,07-05-2012,225,Hungary,English,Meevee,Drama,Stefanie Creasey,Forint,2.7
+818,Despicable Me 2,27-12-1969,27-12-1969,200,France,Chinese,Twitterbridge,Drama,Selle Zecchini,Euro,5.2
+819,Borgman,11-08-1984,08-11-1984,31,Malaysia,Spanish,Yodo,Horror,Clarisse Ruben,Ringgit,6.6
+820,David and Bathsheba,16-08-2013,16-08-2013,55,Sweden,Chinese,Nlounge,Romance,Finn Benson,Krona,4.7
+821,"Hills Have Eyes, The",25-02-1945,25-02-1945,198,Indonesia,Spanish,Nlounge,Action,Catrina Sepey,Rupiah,8.8
+822,World War Z,17-10-1965,17-10-1965,185,Portugal,French,Photobean,Horror,Alisander Dillicate,Euro,8
+823,Rembrandt's J'accuse,28-09-2000,28-09-2000,26,Russia,Chinese,Omba,Drama,Melisandra Hillett,Ruble,5.8
+824,Eddie Izzard: Force Majeure Live,20-10-1972,20-10-1972,276,Russia,German,Gabtune,Drama,Arnold O'Ruane,Ruble,8.6
+825,Red Lights (Feux rouges),19-08-1924,19-08-1924,84,France,French,Quimba,Drama,Fredric De la Yglesia,Euro,4
+826,Bravo Two Zero ,21-04-1979,21-04-1979,17,China,English,Meetz,Drama,Isis Pordal,Yuan Renminbi,8.2
+827,"Lone Ranger, The",07-10-1900,10-07-1900,176,Spain,French,Dabshots,Horror,Ramsay Stephens,Euro,9
+828,"Last of the Mohicans, The",23-10-2014,23-10-2014,222,Indonesia,English,Twinder,Action,Marguerite Scobbie,Rupiah,2.5
+829,"Christmas Tale, A (Un conte de No?Æl)",17-05-1982,17-05-1982,219,Colombia,English,Shuffledrive,Romance,Nertie Pilmer,Peso,5.4
+830,"Simple Wish, A",01-11-1934,11-01-1934,245,Indonesia,English,Twitterwire,Action,Audrey Macklin,Rupiah,7
+831,Hide-Out,03-10-2000,10-03-2000,221,Estonia,French,Cogidoo,Drama,Billi Doog,Euro,1.2
+832,"Guru, The",03-09-2003,09-03-2003,158,Kenya,German,Linkbuzz,Action,Liva Carlow,Shilling,1.2
+833,Before the Revolution (Prima della rivoluzione),14-04-1909,14-04-1909,205,China,English,Yoveo,Drama,Abagail Lubman,Yuan Renminbi,2.6
+834,"Bottom of the Sea, The (El fondo del mar)",24-04-2019,24-04-2019,256,Tunisia,Spanish,Dynabox,Romance,Vanessa Ponsford,Dinar,5.6
+835,Ladder 49,12-02-1985,02-12-1985,280,Russia,Spanish,Skippad,Comedy,Salmon Bowerbank,Ruble,3.6
+836,Big City Blues,20-08-2007,20-08-2007,196,Indonesia,German,Divavu,Action,Gibbie Malcolm,Rupiah,1.4
+837,Tin Pan Alley,09-04-1969,04-09-1969,274,China,Spanish,Meetz,Comedy,Ellene Ferraron,Yuan Renminbi,5.1
+838,Return to Me,24-07-2005,24-07-2005,294,Ukraine,Spanish,Youfeed,Horror,Delmor Dashper,Hryvnia,2.4
+839,Inside the Twin Towers,29-09-1969,29-09-1969,121,Poland,English,Bubblemix,Horror,Arron Gaywood,Zloty,5.9
+840,Jungleground,27-12-1989,27-12-1989,24,Indonesia,English,Vidoo,Drama,Jacquelin Cobden,Rupiah,4.2
+841,"Bachelor Weekend, The",10-11-1913,11-10-1913,114,Morocco,German,Quimba,Drama,Worthy Cripps,Dirham,1.7
+842,My Rainy Days,02-06-2007,06-02-2007,150,China,German,Youfeed,Romance,Fair Lomasny,Yuan Renminbi,1.2
+843,"Beast Must Die, The",12-03-1925,03-12-1925,276,Poland,English,Skiptube,Drama,Hesther Henrot,Zloty,5.9
+844,"U.S. vs. John Lennon, The",15-03-1902,15-03-1902,41,China,Spanish,Kimia,Drama,Velma Jozaitis,Yuan Renminbi,3.8
+845,"Human Condition I, The (Ningen no joken I)",19-11-1959,19-11-1959,250,Saudi Arabia,English,Yozio,Romance,Andriana Hillam,Rial,6.7
+846,Day of the Falcon,04-08-1920,08-04-1920,272,Japan,French,Realbridge,Drama,Gretal Wrettum,Yen,9.8
+847,Mutant Aliens,02-05-2003,05-02-2003,207,United States,German,Pixonyx,Drama,Fredek Pietasch,Dollar,3.5
+848,Wild Tales,07-09-1968,09-07-1968,187,Philippines,German,Devcast,Horror,Drucie Walklott,Peso,8.6
+849,Amongst Friends,21-04-1998,21-04-1998,237,China,Spanish,Dynabox,Horror,Weidar Larret,Yuan Renminbi,6.4
+850,Killing Zoe,15-11-2016,15-11-2016,231,Ethiopia,Chinese,Kazio,Romance,Dur Orsman,Birr,7.2
+851,Curse of the Puppet Master (Puppet Master 6: The Curse),15-11-2001,15-11-2001,197,Portugal,Spanish,Viva,Action,Othilia Oakton,Euro,6.2
+852,Arena,26-06-1930,26-06-1930,115,Botswana,German,Kamba,Action,Perkin Leydon,Pula,2
+853,Tokyo Twilight (T??ky?? boshoku),07-11-1925,11-07-1925,185,Indonesia,Spanish,Jabbersphere,Comedy,Amil Fulcher,Rupiah,3.1
+854,"Whistleblower, The",10-09-1979,09-10-1979,240,Benin,English,Yotz,Romance,Shandy Klaiser,Franc,8.4
+855,Bug,11-05-2009,05-11-2009,84,Argentina,English,Fiveclub,Action,Nari Bothwell,Peso,4
+856,"Fall of the House of Usher, The (Z?≠nik domu Usheru)",17-03-1979,17-03-1979,250,Mauritania,German,Aimbu,Romance,Edmund Primrose,Ouguiya,4.8
+857,Mary Shelley's Frankenstein (Frankenstein),20-10-1991,20-10-1991,36,France,Spanish,Kwideo,Horror,Kacie Somner,Euro,6.3
+858,Punk's Dead: SLC Punk! 2,30-10-1976,30-10-1976,179,China,Chinese,Devify,Action,Mortie Jammes,Yuan Renminbi,6.2
+859,White Elephant,10-03-1986,03-10-1986,85,Spain,Chinese,Devbug,Drama,Meade Katz,Euro,9.4
+860,Intimate Relations,11-01-2011,01-11-2011,227,Indonesia,English,Twitterlist,Comedy,Jerry Gjerde,Rupiah,9
+861,Lost Souls,15-07-1978,15-07-1978,49,China,English,Dabshots,Action,Silvana Cottam,Yuan Renminbi,6.7
+862,"View from the Top, A",19-08-1914,19-08-1914,41,China,French,Kayveo,Romance,Larry Rubinowitch,Yuan Renminbi,4.7
+863,"Big House, The",04-07-1959,07-04-1959,214,Portugal,German,Pixoboo,Horror,Frederique Chowne,Euro,3.9
+864,Captain Blood,15-12-1965,15-12-1965,213,France,German,Brainverse,Action,Chrystal Hamelyn,Euro,2.5
+865,Replicant,18-09-1928,18-09-1928,105,China,Chinese,Rhyloo,Drama,Kort Garvin,Yuan Renminbi,9.6
+866,"Murder of Fred Hampton, The",01-05-2017,05-01-2017,299,Sweden,German,Podcat,Action,Janessa Ramsby,Krona,8.6
+867,Another You,03-07-1918,07-03-1918,40,Philippines,German,Zooveo,Romance,Ariel Ledington,Peso,6.9
+868,Crac,25-01-1914,25-01-1914,197,Argentina,English,Wikido,Romance,Janean Lenormand,Peso,6.2
+869,Mystery Science Theater 3000: The Movie,02-12-2008,12-02-2008,298,Indonesia,English,Skyba,Comedy,Chastity Keelin,Rupiah,7.8
+870,Guinea Pig: Flowers of Flesh and Blood (Za ginipiggu 2: Chiniku no hana),22-12-2016,22-12-2016,183,Russia,German,Pixope,Comedy,Lydon Peachey,Ruble,2.4
+871,Crime at the Chinese Restaurant,11-02-1968,02-11-1968,280,Colombia,Spanish,Buzzshare,Romance,Milli Brahams,Peso,5.5
+872,Donner Pass,18-05-1960,18-05-1960,223,South Africa,French,Photospace,Action,Charyl Palister,Rand,4.3
+873,Jet Pilot,05-04-1907,04-05-1907,49,Indonesia,Chinese,Quire,Action,Mirabella Borg-Bartolo,Rupiah,4.2
+874,Factory Girl,21-10-1962,21-10-1962,95,China,German,Tavu,Horror,Tremaine Syde,Yuan Renminbi,8.9
+875,Of Gods and Men (Des hommes et des dieux),23-06-1982,23-06-1982,248,Brazil,German,Blogspan,Action,Pattie Bottrell,Real,4.2
+876,Riding Giants,20-07-1993,20-07-1993,129,Pakistan,Spanish,Myworks,Action,Ignatius Cropp,Rupee,3.7
+877,Igby Goes Down,05-09-1916,09-05-1916,247,Philippines,French,Buzzbean,Romance,Cart Coburn,Peso,3.9
+878,Porco Rosso (Crimson Pig) (Kurenai no buta),31-05-1993,31-05-1993,265,China,German,Viva,Comedy,Gan Scrivinor,Yuan Renminbi,3.9
+879,"Carriers Are Waiting, The (Convoyeurs attendent, Les)",17-10-1958,17-10-1958,189,China,French,Voonix,Romance,Aileen Torbard,Yuan Renminbi,4.4
+880,Kolya (Kolja),15-05-1953,15-05-1953,184,China,English,Tazzy,Romance,Jarrad Treasaden,Yuan Renminbi,4.3
+881,"Distant Voices, Still Lives",10-11-2002,11-10-2002,27,Portugal,Spanish,Gigabox,Action,Ileana Crookshank,Euro,8.1
+882,Marriage Retreat,22-12-1941,22-12-1941,9,China,Spanish,Oozz,Romance,Dyane Nuton,Yuan Renminbi,1.1
+883,Bunraku,24-06-1916,24-06-1916,209,Armenia,Spanish,JumpXS,Romance,Sofia Fairfull,Dram,4.5
+884,Damsels in Distress,10-11-2013,11-10-2013,100,China,English,Skyba,Horror,Van Pierce,Yuan Renminbi,9.4
+885,Sightseers,04-05-1948,05-04-1948,93,China,Spanish,Eazzy,Comedy,Talya McKeaveney,Yuan Renminbi,6.5
+886,Murk (M??rke),09-07-1939,07-09-1939,69,Philippines,Chinese,Rhyzio,Drama,Cherrita Gladman,Peso,1.3
+887,Spin (You Are Here),28-10-1933,28-10-1933,1,Guatemala,French,Linkbridge,Comedy,Dedie Zucker,Quetzal,9.1
+888,The Little Death,04-11-1982,11-04-1982,71,South Africa,French,Leexo,Romance,Fairlie Lumby,Rand,3
+889,Scooby-Doo,03-06-1984,06-03-1984,271,Brazil,Chinese,Wordware,Comedy,Fidelity Crush,Real,9.9
+890,Battlestar Galactica: Blood & Chrome,12-09-1971,09-12-1971,223,Japan,French,Chatterpoint,Action,Fay Extence,Yen,1.9
+891,Touch of Evil,20-07-1900,20-07-1900,218,China,German,Feedspan,Romance,Andre Websdale,Yuan Renminbi,3.4
+892,Dragon: The Bruce Lee Story,14-03-2006,14-03-2006,61,China,English,Riffpedia,Drama,Brinna Plaid,Yuan Renminbi,6.2
+893,Taxi for Tobruk,20-03-1951,20-03-1951,286,Afghanistan,French,Tazz,Comedy,Ephraim Reubbens,Afghani,6.9
+894,Hard Ticket to Hawaii,06-11-1920,11-06-1920,156,China,English,Innojam,Romance,Karyl Gammet,Yuan Renminbi,7.8
+895,Umberto D.,07-10-1912,10-07-1912,34,China,French,Wordify,Action,Corney Fromont,Yuan Renminbi,9.4
+896,Street Scenes ,21-11-1951,21-11-1951,151,Zimbabwe,Spanish,Blogpad,Drama,Torry Pleasaunce,Dollar,4.6
+897,Rasmus p?ù luffen,18-02-1999,18-02-1999,179,Ethiopia,German,Yoveo,Comedy,Sarajane Hymor,Birr,6.3
+898,"Private Life of Don Juan, The",06-12-1965,12-06-1965,260,Argentina,Spanish,Latz,Romance,Farleigh Whatling,Peso,9.3
+899,Far from Heaven,18-06-1940,18-06-1940,165,France,Chinese,Zooxo,Horror,Shara Bliven,Euro,8.2
+900,Fruitvale Station,13-04-1928,13-04-1928,115,China,English,Thoughtworks,Comedy,Saul Skipper,Yuan Renminbi,3.8
+901,Lady and the Tramp,16-12-1958,16-12-1958,99,Argentina,Chinese,Rhybox,Comedy,Mikel Jolliman,Peso,2.9
+902,Contagion,27-06-1920,27-06-1920,206,China,Chinese,Rooxo,Horror,Miguela Blackater,Yuan Renminbi,8.6
+903,"Longshots, The",17-02-1922,17-02-1922,283,China,Chinese,Lajo,Action,Berty Harvard,Yuan Renminbi,5.9
+904,Slacker 2011,17-10-1924,17-10-1924,224,China,Chinese,Photojam,Drama,Melba Clother,Yuan Renminbi,1.2
+905,"North Avenue Irregulars, The",18-10-1924,18-10-1924,231,China,English,Fiveclub,Horror,Nollie Preece,Yuan Renminbi,6.4
+906,Once in a Lifetime: The Extraordinary Story of the New York Cosmos,05-06-2003,06-05-2003,275,Sweden,Chinese,Nlounge,Drama,Terese Senett,Krona,5.5
+907,T??ynn?? Tarmoa,12-12-1988,12-12-1988,134,Western Sahara,German,Rhynoodle,Drama,Olwen Forrestor,Dirham,2.4
+908,Kiki,01-05-1974,05-01-1974,78,Ireland,German,Vinte,Horror,April Schneider,Euro,4.2
+909,"Patch of Blue, A",16-11-1957,16-11-1957,3,Russia,Spanish,Vimbo,Drama,Audra Wilcocks,Ruble,9.7
+910,Two Guys Talkin' About Girls,01-02-1979,02-01-1979,255,Kazakhstan,English,Twitternation,Action,Malina Hendrickson,Tenge,4.6
+911,All About the Feathers (Por Las Plumas),10-03-2016,03-10-2016,236,Philippines,French,Meevee,Horror,Joanie Ivanyukov,Peso,4.6
+912,Metalstorm: The Destruction of Jared-Syn,11-09-1920,09-11-1920,284,Brazil,French,Kwideo,Action,Leland Kielt,Real,4.4
+913,The Water Diviner,19-01-2021,19-01-2021,17,France,Spanish,Buzzshare,Drama,Gerrard Lafflina,Euro,3.8
+914,All Quiet on the Western Front,21-02-2003,21-02-2003,179,New Zealand,English,Twitterworks,Romance,Norrie Fothergill,Dollar,6.5
+915,Around the Bend,05-02-1940,02-05-1940,183,Czech Republic,Chinese,Edgeclub,Drama,Margi Domange,Koruna,7.3
+916,Invisible Invaders,19-07-1966,19-07-1966,104,Poland,German,Shuffletag,Comedy,Huntley Cardozo,Zloty,3.7
+917,Agent Red,23-11-1999,23-11-1999,29,Indonesia,French,Yakijo,Romance,Lou Probetts,Rupiah,6.4
+918,Campfire Tales,21-02-1970,21-02-1970,173,Portugal,German,Youtags,Comedy,Mavis Crampsy,Euro,9.2
+919,"Phantom of the Opera, The",31-05-1944,31-05-1944,193,France,Spanish,Quinu,Drama,Page Codd,Euro,9.3
+920,Drive Me Crazy,09-03-1989,03-09-1989,34,Croatia,German,Linklinks,Action,Barnabe Ibel,Kuna,3.5
+921,The Six Million Dollar Man,24-10-1982,24-10-1982,144,France,French,Rhyloo,Comedy,Clio Collihole,Euro,9.2
+922,Wrong Turn 3: Left for Dead,24-06-1992,24-06-1992,276,Sweden,French,Linktype,Romance,Farrah Polamontayne,Krona,8.8
+923,Aces 'N' Eights,11-07-1990,07-11-1990,210,Indonesia,Spanish,Gevee,Action,Tamma Mendoza,Rupiah,1.1
+924,Rock School,18-01-1991,18-01-1991,163,Sweden,Chinese,Dabfeed,Comedy,Chelsey Peyro,Krona,9.7
+925,"Tiger and the Snow, The (La tigre e la neve)",23-04-2020,23-04-2020,218,China,English,Realbuzz,Drama,Earlie Cunde,Yuan Renminbi,6.6
+926,Istanbul,18-11-1943,18-11-1943,250,Latvia,Spanish,Wikivu,Drama,Felecia Roe,Euro,4.8
+927,Latitudes,14-01-2004,14-01-2004,113,Portugal,German,Blogspan,Comedy,Avictor Boggis,Euro,7.4
+928,Gold Diggers of 1937,15-04-1923,15-04-1923,104,Thailand,Spanish,Tagcat,Action,Adrianne Welberry,Baht,3.5
+929,Debtocracy,03-04-1915,04-03-1915,89,Indonesia,French,Browsebug,Drama,Ash Fellows,Rupiah,7.7
+930,Tepenin Ardi,11-05-1910,05-11-1910,83,Russia,German,Abatz,Horror,Retha Doyle,Ruble,1.8
+931,Agony (a.k.a. Rasputin) (Agoniya),27-07-1959,27-07-1959,103,Brazil,Spanish,Wikivu,Romance,Brande Scardifield,Real,8.7
+932,"Road, Movie",10-01-1993,01-10-1993,98,Finland,Chinese,Flashspan,Horror,Germain Alabaster,Euro,1.5
+933,Window to Paris (Okno v Parizh),22-02-1958,22-02-1958,144,Indonesia,Chinese,Camimbo,Drama,Raoul Immings,Rupiah,3.3
+934,Aziz Ansari: Live at Madison Square Garden,03-08-2009,08-03-2009,27,Thailand,German,Wikizz,Romance,Whittaker Willans,Baht,3.1
+935,"War Game, The",05-02-1939,02-05-1939,198,Indonesia,French,Fatz,Comedy,Sande Doey,Rupiah,2.1
+936,Chelsea on the Rocks,06-09-1990,09-06-1990,89,Indonesia,English,Thoughtblab,Drama,Carroll Liebmann,Rupiah,6.6
+937,Dead Man Down,20-03-1912,20-03-1912,209,Cuba,Spanish,Livetube,Action,Marci Spira,Peso,9.5
+938,Nowhere to Hide (Injeong sajeong bol geot eobtda),05-07-1915,07-05-1915,145,Mauritius,French,Voomm,Drama,Quintin Maslin,Rupee,6.9
+939,Lady and the Tramp II: Scamp's Adventure,24-02-1959,24-02-1959,160,Indonesia,English,Feedbug,Action,Carmon Di Ruggiero,Rupiah,4.3
+940,Saving Face,26-06-1939,26-06-1939,54,Russia,Chinese,Thoughtstorm,Drama,Rennie Rosendale,Ruble,6
+941,"Piano Tuner of Earthquakes, The",27-04-1950,27-04-1950,160,Philippines,English,Skaboo,Drama,Antonina Quenell,Peso,6.5
+942,Underneath,01-12-1923,12-01-1923,49,China,German,Tagfeed,Drama,Rivi Dallemore,Yuan Renminbi,8.3
+943,Light Is Calling,04-02-1969,02-04-1969,140,China,French,Yata,Romance,Bab Legen,Yuan Renminbi,7.7
+944,Tom Jones,27-03-1957,27-03-1957,4,Philippines,Chinese,Roodel,Drama,Josie Clunan,Peso,5.4
+945,"Nick Carter, Master Detective",26-02-1948,26-02-1948,256,China,French,Jaxbean,Romance,Chantalle Downes,Yuan Renminbi,8.5
+946,Link,06-10-2002,10-06-2002,15,Serbia,English,Voonte,Action,Cortney Sherratt,Dinar,3
+947,Diary of a Lost Girl (Tagebuch einer Verlorenen),02-05-1901,05-02-1901,9,Brazil,English,Skinte,Horror,Gilemette Moult,Real,2.3
+948,American Hustle,29-05-1939,29-05-1939,295,United States,French,Devify,Romance,Thekla Spavon,Dollar,9.1
+949,Mighty Joe Young,21-02-1947,21-02-1947,58,Poland,Chinese,Jabbertype,Action,Filip Allgood,Zloty,5.6
+950,Popeye,27-06-1939,27-06-1939,10,Indonesia,Chinese,Rhybox,Romance,Kellia Hallbird,Rupiah,7.5
+951,Cult of the Cobra,23-06-1991,23-06-1991,274,Serbia,Chinese,Twitterworks,Horror,Lonnie Ivamy,Dinar,9.8
+952,Duel,31-10-1964,31-10-1964,44,China,French,Yacero,Comedy,Leonid Daveran,Yuan Renminbi,6.9
+953,Twins,23-09-1971,23-09-1971,181,Philippines,English,Ailane,Drama,Shellie Sulman,Peso,5.7
+954,Coming Down the Mountain,06-04-1948,04-06-1948,130,Iraq,Spanish,LiveZ,Romance,Ardra Paolazzi,Dinar,9.8
+955,My Best Friend's Wedding,21-05-1934,21-05-1934,191,China,Spanish,Meetz,Action,Forester Lobley,Yuan Renminbi,6.4
+956,Silmido,05-05-1988,05-05-1988,195,Philippines,French,Tagfeed,Comedy,Mariette Mathelin,Peso,8.7
+957,Class of 1984,13-03-1916,13-03-1916,235,Nigeria,Chinese,InnoZ,Action,Serena Tother,Naira,4.7
+958,Cracks,30-09-1942,30-09-1942,121,Indonesia,Spanish,Zoozzy,Horror,Allyn Whebell,Rupiah,5
+959,The Hornet's Nest,20-04-1928,20-04-1928,84,Poland,Spanish,Realpoint,Comedy,Clementius Brameld,Zloty,3.6
+960,By the Light of the Silvery Moon,29-07-1940,29-07-1940,250,Nigeria,Spanish,Roodel,Comedy,Tonnie Doubleday,Naira,4
+961,"Limits of Control, The",07-03-1958,03-07-1958,249,Brazil,Spanish,Katz,Action,Albrecht Lowry,Real,2
+962,"Desert of the Tartars, The (Deserto dei Tartari, Il)",25-01-2009,25-01-2009,117,Sudan,English,Skyndu,Romance,Carmina Blunsen,Pound,10
+963,Zero Tolerance (Noll tolerans),24-08-2008,24-08-2008,38,Chile,French,Shufflester,Drama,Karin Burlay,Peso,2.5
+964,"Change-Up, The",28-06-1944,28-06-1944,164,China,French,Avavee,Horror,Marys Cockerill,Yuan Renminbi,1.8
+965,Trust Me,10-11-1993,11-10-1993,145,Philippines,English,Dynazzy,Horror,Norman Maris,Peso,5.3
+966,Water Drops on Burning Rocks,21-05-2021,21-05-2021,74,Albania,French,Tanoodle,Comedy,Caron Bottleson,Lek,5.1
+967,Blue Velvet,08-03-1907,03-08-1907,158,Hong Kong,German,Browsecat,Action,Boigie Rosingdall,Dollar,8.7
+968,Peter Pan,01-02-1947,02-01-1947,296,Brazil,Spanish,Jazzy,Comedy,Megan Blackmoor,Real,1.2
+969,Journey to the Beginning of Time,04-10-1917,10-04-1917,19,Japan,Spanish,Quamba,Drama,Marleen Goucher,Yen,1.4
+970,"American in Paris, An",30-11-1984,30-11-1984,189,China,Chinese,Skyble,Horror,Nara Ellens,Yuan Renminbi,9.6
+971,"Miracle Woman, The",16-07-1963,16-07-1963,47,Tanzania,English,Fanoodle,Drama,Novelia Bunson,Shilling,8
+972,Dad,30-12-1914,30-12-1914,279,Malaysia,Spanish,Devcast,Drama,Bertrando Spalding,Ringgit,7.2
+973,"Merchant of Venice, The",26-11-1940,26-11-1940,216,Indonesia,German,Pixoboo,Action,Neda Bruckmann,Rupiah,2.6
+974,Always Leave Them Laughing,28-06-2010,28-06-2010,156,China,French,Ntags,Action,Adam Hewell,Yuan Renminbi,2.9
+975,"Pursuit of the Graf Spee (Battle of the River Plate, The)",23-01-1956,23-01-1956,233,Poland,Chinese,Quamba,Romance,Adam Ayers,Zloty,3.1
+976,"Autobiography of Miss Jane Pittman, The",01-01-1938,01-01-1938,36,Peru,English,Kimia,Drama,Clerissa Sterman,Sol,7.8
+977,"Heart of Me, The",08-01-1912,01-08-1912,58,China,English,Oyope,Action,Tersina Chasney,Yuan Renminbi,4.4
+978,Where Are My Children?,19-02-1922,19-02-1922,71,Brazil,Spanish,Babbleblab,Horror,Esdras Raffels,Real,1.3
+979,Lucia,07-04-1954,04-07-1954,127,China,German,Fiveclub,Drama,Josepha Ledington,Yuan Renminbi,4.8
+980,Break-in,01-04-1985,04-01-1985,171,Brazil,French,Skivee,Action,Coleen Van der Krui,Real,3.8
+981,Biker Boyz,27-01-2009,27-01-2009,199,China,English,Digitube,Horror,Nonnah Liell,Yuan Renminbi,8.5
+982,"Guitar, The",04-11-2014,11-04-2014,292,China,Chinese,Flashspan,Horror,Florenza Jeandillou,Yuan Renminbi,9.8
+983,Gigli,01-04-1973,04-01-1973,47,Indonesia,Chinese,Yodo,Drama,Hasty Saiz,Rupiah,5.9
+984,Beer Wars,11-06-1963,06-11-1963,157,Poland,English,Devify,Action,Dona Fairham,Zloty,6
+985,Ca??tica Ana,23-05-1912,23-05-1912,116,Vietnam,Chinese,Mudo,Action,Lowe Shields,Dong,8.5
+986,Shadow Boxers,08-06-2019,06-08-2019,211,Portugal,English,Zooxo,Comedy,Dorita Orth,Euro,8.3
+987,"Guilt Trip, The",25-12-1982,25-12-1982,208,Philippines,English,Rhybox,Romance,Anthe Dragge,Peso,6.8
+988,State Fair,28-03-2017,28-03-2017,285,China,German,Photofeed,Romance,Pippy Hatwell,Yuan Renminbi,6.3
+989,Malaya,13-07-1914,13-07-1914,43,Russia,English,Eimbee,Horror,Ania Denyakin,Ruble,7.1
+990,Big Girls Don't Cry (Gro??e M??dchen weinen nicht),29-11-1909,29-11-1909,259,China,Spanish,Voomm,Drama,Briggs Cochrane,Yuan Renminbi,4.9
+991,Alice Doesn't Live Here Anymore,12-07-1991,07-12-1991,186,China,Chinese,Wikido,Action,Mathew Hanhart,Yuan Renminbi,9.6
+992,Kanak Attack,26-03-2010,26-03-2010,200,Indonesia,German,Oyondu,Romance,Jone Doogood,Rupiah,7.7
+993,"Plaisir, Le",31-03-1955,31-03-1955,10,Brazil,Spanish,Skalith,Action,Shelton Alam,Real,3.8
+994,Vengeance (Fuk sau),15-12-1999,15-12-1999,263,Philippines,German,Quinu,Comedy,Ileana Doldon,Peso,1.3
+995,Death Wish 3,22-05-1955,22-05-1955,141,Poland,Chinese,Edgeify,Comedy,Pansy Deavin,Zloty,4.8
+996,Woman on the Beach (Haebyeonui yeoin),21-09-1956,21-09-1956,137,Jordan,French,Janyx,Drama,Nil Livick,Dinar,3
+997,Inquire Within,08-07-1997,07-08-1997,153,Canada,English,Photospace,Horror,Tonia Haddinton,Dollar,2.6
+998,"Sun Also Rises, The (Tai yang zhao chang sheng qi)",21-04-1927,21-04-1927,40,China,Spanish,Brainbox,Comedy,Rayner Kleynermans,Yuan Renminbi,5.8
+999,"Friend of the Deceased, A (Priyatel pokonika)",24-11-1960,24-11-1960,230,Greece,Chinese,Twimbo,Romance,Shoshana Klaassens,Euro,4.1
+1000,Wild Side,19-04-1929,19-04-1929,18,Russia,Chinese,Realpoint,Action,Suzann Rawll,Ruble,7.9
